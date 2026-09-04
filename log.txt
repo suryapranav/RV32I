@@ -1,0 +1,3908 @@
+    Elapsed: 0.010s  Memory: 858.00M
+"space" in: sky130A_mr.drc:1399
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"polygons" in: sky130A_mr.drc:1400
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1401
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"width" in: sky130A_mr.drc:1404
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1404
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"drc" in: sky130A_mr.drc:1408
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1408
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"-" in: sky130A_mr.drc:1412
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1412
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"enclosing" in: sky130A_mr.drc:1418
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1418
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"-" in: sky130A_mr.drc:1422
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1422
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+END: 71/44 (via4)
+START: 72/20 (m5)
+"width" in: sky130A_mr.drc:1427
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1427
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"space" in: sky130A_mr.drc:1429
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1429
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"enclosing" in: sky130A_mr.drc:1431
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1431
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"-" in: sky130A_mr.drc:1435
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1435
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"with_area" in: sky130A_mr.drc:1442
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1442
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"holes" in: sky130A_mr.drc:1444
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_area" in: sky130A_mr.drc:1445
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1446
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+END: 72/20 (m5)
+START: 76/20 (pad)
+"space" in: sky130A_mr.drc:1451
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1451
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+END: 76/20 (pad)
+START: 81/10 (moduleCut)
+"output" in: sky130A_mr.drc:1457
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+END: 81/10 (moduleCut)
+FEOL section
+START: 75/20 (hvi)
+"-" in: sky130A_mr.drc:1470
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"width" in: sky130A_mr.drc:1471
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1471
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"space" in: sky130A_mr.drc:1475
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1475
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+END: 75/20 (hvi)
+START: 125/20 (hvntm)
+"-" in: sky130A_mr.drc:1483
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"width" in: sky130A_mr.drc:1484
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1484
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"space" in: sky130A_mr.drc:1488
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1488
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+END: 125/20 (hvntm)
+OFFGRID-ANGLES section
+"ongrid" in: sky130A_mr.drc:1498
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1498
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1502
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1502
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1506
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1506
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1507
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1507
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1511
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1511
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1512
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1512
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1513
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1513
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1514
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1514
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1515
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1515
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1516
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1516
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1517
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1517
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1518
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1518
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1519
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1519
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1520
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1520
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1521
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1521
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1522
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1522
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1523
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1523
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1524
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1524
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1526
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"-" in: sky130A_mr.drc:1526
+    Polygons (raw): 77251 (flat)  367 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1527
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1528
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1530
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1530
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1531
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1532
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1534
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"-" in: sky130A_mr.drc:1534
+    Polygons (raw): 5644 (flat)  2 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1535
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1536
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1538
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"&" in: sky130A_mr.drc:1538
+    Polygons (raw): 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1539
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1540
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1541
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1541
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1542
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1542
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1543
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1543
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1544
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1544
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1545
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1545
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1546
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1546
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1547
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1547
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1548
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1548
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1549
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1550
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1550
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1551
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1551
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1552
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1552
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1553
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1553
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1554
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1554
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1558
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1558
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1559
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1559
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1560
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.080s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1560
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1561
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.070s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1561
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1562
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1562
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1563
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1563
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1564
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1564
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1565
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1565
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1566
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.040s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1566
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1567
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1567
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1568
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1568
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1569
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1569
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1570
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1570
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1571
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1571
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1572
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1572
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1573
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1573
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1574
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1574
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1575
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1575
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1576
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1576
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1577
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1577
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1578
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1578
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1579
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1579
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1580
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1580
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1581
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1581
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1582
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1582
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1583
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1583
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1584
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1584
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1585
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1585
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1586
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1586
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1587
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1587
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1588
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1588
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1589
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1589
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1590
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1590
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1591
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1591
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1595
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1595
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1596
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1596
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1597
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1597
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1598
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1598
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.030s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1599
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1599
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+"with_angle" in: sky130A_mr.drc:1603
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1603
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.020s  Memory: 858.00M
+"ongrid" in: sky130A_mr.drc:1607
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.010s  Memory: 858.00M
+"output" in: sky130A_mr.drc:1607
+    Edge pairs: 0 (flat)  0 (hierarchical)
+    Elapsed: 0.000s  Memory: 858.00M
+Writing report database:
+/Users/surya/Projects/RV32I/runs/glui-20260904-232539/65-klayout-drc/reports/drc
+.klayout.lyrdb ..
+Total elapsed: 86.540s  Memory: 858.00M
+Args:
+        sram_exclude: false
+        feol: 1
+        beol: 1
+        floating_met: false
+        offgrid: 1
+        seal: 1
+Cell exclusion list:
+   rule    | cell
+   nwell.6 | sky130_fd_io__gpiov2_amux, sky130_fd_io__simple_pad_and_busses
+release 2024.2.11_01.09
+[18:37:01] VERBOSE  Logging subprocess to                           step.py:1338
+                    'runs/glui-20260904-232539/65-klayout-drc/xml_d
+                    rc_report_to_json.log'…
+────────────────────────── Magic Design Rule Checker ───────────────────────────
+──────── ▶ Checker.MagicDRC ────────
+[18:37:01] VERBOSE  Running 'Checker.MagicDRC' at                   step.py:1138
+                    'runs/glui-20260904-232539/66-checker-magicdrc'
+                    …
+[18:37:01] INFO     Check for Magic DRC errors clear.             checker.py:131
+───────────────────────── KLayout Design Rule Checker ──────────────────────────
+──────── ▶ Checker.KLayoutDRC ────────
+[18:37:01] VERBOSE  Running 'Checker.KLayoutDRC' at                 step.py:1138
+                    'runs/glui-20260904-232539/67-checker-klayoutdr
+                    c'…
+[18:37:01] INFO     Check for KLayout DRC errors clear.           checker.py:131
+──────────────────────────── SPICE Model Extraction ────────────────────────────
+──────── ▶ Magic.SpiceExtraction ────────
+[18:37:01] VERBOSE  Running 'Magic.SpiceExtraction' at              step.py:1138
+                    'runs/glui-20260904-232539/68-magic-spiceextrac
+                    tion'…
+[18:37:01] VERBOSE  Logging subprocess to                           step.py:1338
+                    'runs/glui-20260904-232539/68-magic-spiceextrac
+                    tion/magic-spiceextraction.log'…
+Magic 8.3 revision 623 - Compiled on Tue Mar 17 08:19:43 UTC 2026.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+WARNING: RLIMIT_NOFILE is above 1024 and Tcl_Version<9 this may cause runtime
+issues [rlim_cur=1048576]
+Using NULL graphics device.
+Processing system .magicrc file
+Switching to WIRING tool.
+Switching to NETLIST tool.
+Switching to PICK tool.
+Switching to BOX tool.
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130(): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as
+non-electrical types:
+    ubm
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading
+"/nix/store/wf3vpghqpfw37w1did4cqvg606hx6708-python3-3.13.9-env/lib/python3.13/s
+ite-packages/librelane/scripts/magic/wrapper.tcl" from command line.
+> lef read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef
+Reading LEF data from file
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef.
+This action cannot be undone.
+LEF read, Line 82 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 83 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read, Line 116 (Message): Unknown keyword "MINENCLOSEDAREA" in LEF file;
+ignoring.
+LEF read, Line 118 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 119 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read, Line 125 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file;
+ignoring.
+LEF read, Line 126 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file;
+ignoring.
+LEF read, Line 127 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file;
+ignoring.
+LEF read, Line 160 (Message): Unknown keyword "MINENCLOSEDAREA" in LEF file;
+ignoring.
+LEF read, Line 168 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 169 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read, Line 171 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file;
+ignoring.
+LEF read, Line 172 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file;
+ignoring.
+LEF read, Line 173 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file;
+ignoring.
+LEF read, Line 210 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 211 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read, Line 213 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file;
+ignoring.
+LEF read, Line 214 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file;
+ignoring.
+LEF read, Line 215 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file;
+ignoring.
+LEF read, Line 252 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 253 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read, Line 255 (Message): Unknown keyword "MAXIMUMDENSITY" in LEF file;
+ignoring.
+LEF read, Line 256 (Message): Unknown keyword "DENSITYCHECKWINDOW" in LEF file;
+ignoring.
+LEF read, Line 257 (Message): Unknown keyword "DENSITYCHECKSTEP" in LEF file;
+ignoring.
+LEF read, Line 294 (Message): Unknown keyword "ANTENNAMODEL" in LEF file;
+ignoring.
+LEF read, Line 295 (Message): Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF
+file; ignoring.
+LEF read: Processed 801 lines.
+> lef read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef
+Reading LEF data from file
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_ef_sc_hd.lef.
+This action cannot be undone.
+LEF read: Processed 582 lines.
+> lef read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef
+Reading LEF data from file
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/lef/sky130_fd_sc_hd.lef.
+This action cannot be undone.
+LEF read: Processed 56536 lines.
+> def read
+/Users/surya/Projects/RV32I/runs/glui-20260904-232539/53-odb-cellfrequencytables
+/rv32i_core.def -noblockage
+Reading DEF data from file
+/Users/surya/Projects/RV32I/runs/glui-20260904-232539/53-odb-cellfrequencytables
+/rv32i_core.def.
+This action cannot be undone.
+  Processed 4 vias total.
+  Processed 1 non-default rules total.
+  Processed 39907 subcell instances total.
+  Processed 276 pins total.
+  Processed 2 special nets total.
+  Processed 8443 nets total.
+DEF read: Processed 198349 lines.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice
+Annotating cell sky130_ef_sc_hd__decap_12
+Cell sky130_ef_sc_hd__decap_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_20_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_20_12.spice
+Annotating cell sky130_ef_sc_hd__decap_20_12
+Cell sky130_ef_sc_hd__decap_20_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_40_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_40_12.spice
+Annotating cell sky130_ef_sc_hd__decap_40_12
+Cell sky130_ef_sc_hd__decap_40_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_60_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_60_12.spice
+Annotating cell sky130_ef_sc_hd__decap_60_12
+Cell sky130_ef_sc_hd__decap_60_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_80_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_80_12.spice
+Annotating cell sky130_ef_sc_hd__decap_80_12
+Cell sky130_ef_sc_hd__decap_80_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_12.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_12.spice
+Annotating cell sky130_ef_sc_hd__fill_12
+Cell sky130_ef_sc_hd__fill_12 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_2.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_2.spice
+Cell sky130_ef_sc_hd__fill_2 in netlist has not been loaded.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_4.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_4.spice
+Annotating cell sky130_ef_sc_hd__fill_4
+Cell sky130_ef_sc_hd__fill_4 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_8.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_8.spice
+Annotating cell sky130_ef_sc_hd__fill_8
+Cell sky130_ef_sc_hd__fill_8 port order was modified.
+> spice read
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
+Annotating port orders from
+/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e71
+/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
+Annotating cell sky130_fd_sc_hd__a2bb2o_1
+Cell sky130_fd_sc_hd__a2bb2o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2bb2o_2
+Cell sky130_fd_sc_hd__a2bb2o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2bb2o_4
+Cell sky130_fd_sc_hd__a2bb2o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2bb2oi_1
+Cell sky130_fd_sc_hd__a2bb2oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2bb2oi_2
+Cell sky130_fd_sc_hd__a2bb2oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2bb2oi_4
+Cell sky130_fd_sc_hd__a2bb2oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21bo_1
+Cell sky130_fd_sc_hd__a21bo_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21bo_2
+Cell sky130_fd_sc_hd__a21bo_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21bo_4
+Cell sky130_fd_sc_hd__a21bo_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21boi_0
+Cell sky130_fd_sc_hd__a21boi_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21boi_1
+Cell sky130_fd_sc_hd__a21boi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21boi_2
+Cell sky130_fd_sc_hd__a21boi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21boi_4
+Cell sky130_fd_sc_hd__a21boi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21o_1
+Cell sky130_fd_sc_hd__a21o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21o_2
+Cell sky130_fd_sc_hd__a21o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21o_4
+Cell sky130_fd_sc_hd__a21o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21oi_1
+Cell sky130_fd_sc_hd__a21oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21oi_2
+Cell sky130_fd_sc_hd__a21oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a21oi_4
+Cell sky130_fd_sc_hd__a21oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22o_1
+Cell sky130_fd_sc_hd__a22o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22o_2
+Cell sky130_fd_sc_hd__a22o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22o_4
+Cell sky130_fd_sc_hd__a22o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22oi_1
+Cell sky130_fd_sc_hd__a22oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22oi_2
+Cell sky130_fd_sc_hd__a22oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a22oi_4
+Cell sky130_fd_sc_hd__a22oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31o_1
+Cell sky130_fd_sc_hd__a31o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31o_2
+Cell sky130_fd_sc_hd__a31o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31o_4
+Cell sky130_fd_sc_hd__a31o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31oi_1
+Cell sky130_fd_sc_hd__a31oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31oi_2
+Cell sky130_fd_sc_hd__a31oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a31oi_4
+Cell sky130_fd_sc_hd__a31oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32o_1
+Cell sky130_fd_sc_hd__a32o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32o_2
+Cell sky130_fd_sc_hd__a32o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32o_4
+Cell sky130_fd_sc_hd__a32o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32oi_1
+Cell sky130_fd_sc_hd__a32oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32oi_2
+Cell sky130_fd_sc_hd__a32oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a32oi_4
+Cell sky130_fd_sc_hd__a32oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41o_1
+Cell sky130_fd_sc_hd__a41o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41o_2
+Cell sky130_fd_sc_hd__a41o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41o_4
+Cell sky130_fd_sc_hd__a41o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41oi_1
+Cell sky130_fd_sc_hd__a41oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41oi_2
+Cell sky130_fd_sc_hd__a41oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a41oi_4
+Cell sky130_fd_sc_hd__a41oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211o_1
+Cell sky130_fd_sc_hd__a211o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211o_2
+Cell sky130_fd_sc_hd__a211o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211o_4
+Cell sky130_fd_sc_hd__a211o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211oi_1
+Cell sky130_fd_sc_hd__a211oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211oi_2
+Cell sky130_fd_sc_hd__a211oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a211oi_4
+Cell sky130_fd_sc_hd__a211oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221o_1
+Cell sky130_fd_sc_hd__a221o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221o_2
+Cell sky130_fd_sc_hd__a221o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221o_4
+Cell sky130_fd_sc_hd__a221o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221oi_1
+Cell sky130_fd_sc_hd__a221oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221oi_2
+Cell sky130_fd_sc_hd__a221oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a221oi_4
+Cell sky130_fd_sc_hd__a221oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a222oi_1
+Cell sky130_fd_sc_hd__a222oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311o_1
+Cell sky130_fd_sc_hd__a311o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311o_2
+Cell sky130_fd_sc_hd__a311o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311o_4
+Cell sky130_fd_sc_hd__a311o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311oi_1
+Cell sky130_fd_sc_hd__a311oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311oi_2
+Cell sky130_fd_sc_hd__a311oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a311oi_4
+Cell sky130_fd_sc_hd__a311oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111o_1
+Cell sky130_fd_sc_hd__a2111o_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111o_2
+Cell sky130_fd_sc_hd__a2111o_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111o_4
+Cell sky130_fd_sc_hd__a2111o_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111oi_0
+Cell sky130_fd_sc_hd__a2111oi_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111oi_1
+Cell sky130_fd_sc_hd__a2111oi_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111oi_2
+Cell sky130_fd_sc_hd__a2111oi_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__a2111oi_4
+Cell sky130_fd_sc_hd__a2111oi_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2_0
+Cell sky130_fd_sc_hd__and2_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2_1
+Cell sky130_fd_sc_hd__and2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2_2
+Cell sky130_fd_sc_hd__and2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2_4
+Cell sky130_fd_sc_hd__and2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2b_1
+Cell sky130_fd_sc_hd__and2b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2b_2
+Cell sky130_fd_sc_hd__and2b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and2b_4
+Cell sky130_fd_sc_hd__and2b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3_1
+Cell sky130_fd_sc_hd__and3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3_2
+Cell sky130_fd_sc_hd__and3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3_4
+Cell sky130_fd_sc_hd__and3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3b_1
+Cell sky130_fd_sc_hd__and3b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3b_2
+Cell sky130_fd_sc_hd__and3b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and3b_4
+Cell sky130_fd_sc_hd__and3b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4_1
+Cell sky130_fd_sc_hd__and4_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4_2
+Cell sky130_fd_sc_hd__and4_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4_4
+Cell sky130_fd_sc_hd__and4_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4b_1
+Cell sky130_fd_sc_hd__and4b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4b_2
+Cell sky130_fd_sc_hd__and4b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4b_4
+Cell sky130_fd_sc_hd__and4b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4bb_1
+Cell sky130_fd_sc_hd__and4bb_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4bb_2
+Cell sky130_fd_sc_hd__and4bb_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__and4bb_4
+Cell sky130_fd_sc_hd__and4bb_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_1
+Cell sky130_fd_sc_hd__buf_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_2
+Cell sky130_fd_sc_hd__buf_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_4
+Cell sky130_fd_sc_hd__buf_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_6
+Cell sky130_fd_sc_hd__buf_6 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_8
+Cell sky130_fd_sc_hd__buf_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_12
+Cell sky130_fd_sc_hd__buf_12 port order was modified.
+Annotating cell sky130_fd_sc_hd__buf_16
+Cell sky130_fd_sc_hd__buf_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__bufbuf_8
+Cell sky130_fd_sc_hd__bufbuf_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__bufbuf_16
+Cell sky130_fd_sc_hd__bufbuf_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__bufinv_8
+Cell sky130_fd_sc_hd__bufinv_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__bufinv_16
+Cell sky130_fd_sc_hd__bufinv_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkbuf_1
+Cell sky130_fd_sc_hd__clkbuf_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkbuf_2
+Cell sky130_fd_sc_hd__clkbuf_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkbuf_4
+Cell sky130_fd_sc_hd__clkbuf_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkbuf_8
+Cell sky130_fd_sc_hd__clkbuf_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkbuf_16
+Cell sky130_fd_sc_hd__clkbuf_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s15_1
+Cell sky130_fd_sc_hd__clkdlybuf4s15_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s15_2
+Cell sky130_fd_sc_hd__clkdlybuf4s15_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s18_1
+Cell sky130_fd_sc_hd__clkdlybuf4s18_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s18_2
+Cell sky130_fd_sc_hd__clkdlybuf4s18_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s25_1
+Cell sky130_fd_sc_hd__clkdlybuf4s25_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s25_2
+Cell sky130_fd_sc_hd__clkdlybuf4s25_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s50_1
+Cell sky130_fd_sc_hd__clkdlybuf4s50_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkdlybuf4s50_2
+Cell sky130_fd_sc_hd__clkdlybuf4s50_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinv_1
+Cell sky130_fd_sc_hd__clkinv_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinv_2
+Cell sky130_fd_sc_hd__clkinv_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinv_4
+Cell sky130_fd_sc_hd__clkinv_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinv_8
+Cell sky130_fd_sc_hd__clkinv_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinv_16
+Cell sky130_fd_sc_hd__clkinv_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinvlp_2
+Cell sky130_fd_sc_hd__clkinvlp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__clkinvlp_4
+Cell sky130_fd_sc_hd__clkinvlp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__conb_1
+Cell sky130_fd_sc_hd__conb_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__decap_3
+Cell sky130_fd_sc_hd__decap_3 port order was modified.
+Annotating cell sky130_fd_sc_hd__decap_4
+Cell sky130_fd_sc_hd__decap_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__decap_6
+Cell sky130_fd_sc_hd__decap_6 port order was modified.
+Annotating cell sky130_fd_sc_hd__decap_8
+Cell sky130_fd_sc_hd__decap_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__decap_12
+Cell sky130_fd_sc_hd__decap_12 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfbbn_1
+Cell sky130_fd_sc_hd__dfbbn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfbbn_2
+Cell sky130_fd_sc_hd__dfbbn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfbbp_1
+Cell sky130_fd_sc_hd__dfbbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrbp_1
+Cell sky130_fd_sc_hd__dfrbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrbp_2
+Cell sky130_fd_sc_hd__dfrbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrtn_1
+Cell sky130_fd_sc_hd__dfrtn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrtp_1
+Cell sky130_fd_sc_hd__dfrtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrtp_2
+Cell sky130_fd_sc_hd__dfrtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfrtp_4
+Cell sky130_fd_sc_hd__dfrtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfsbp_1
+Cell sky130_fd_sc_hd__dfsbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfsbp_2
+Cell sky130_fd_sc_hd__dfsbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfstp_1
+Cell sky130_fd_sc_hd__dfstp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfstp_2
+Cell sky130_fd_sc_hd__dfstp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfstp_4
+Cell sky130_fd_sc_hd__dfstp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfxbp_1
+Cell sky130_fd_sc_hd__dfxbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfxbp_2
+Cell sky130_fd_sc_hd__dfxbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfxtp_1
+Cell sky130_fd_sc_hd__dfxtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfxtp_2
+Cell sky130_fd_sc_hd__dfxtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dfxtp_4
+Cell sky130_fd_sc_hd__dfxtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__diode_2
+Cell sky130_fd_sc_hd__diode_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlclkp_1
+Cell sky130_fd_sc_hd__dlclkp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlclkp_2
+Cell sky130_fd_sc_hd__dlclkp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlclkp_4
+Cell sky130_fd_sc_hd__dlclkp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrbn_1
+Cell sky130_fd_sc_hd__dlrbn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrbn_2
+Cell sky130_fd_sc_hd__dlrbn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrbp_1
+Cell sky130_fd_sc_hd__dlrbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrbp_2
+Cell sky130_fd_sc_hd__dlrbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtn_1
+Cell sky130_fd_sc_hd__dlrtn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtn_2
+Cell sky130_fd_sc_hd__dlrtn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtn_4
+Cell sky130_fd_sc_hd__dlrtn_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtp_1
+Cell sky130_fd_sc_hd__dlrtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtp_2
+Cell sky130_fd_sc_hd__dlrtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlrtp_4
+Cell sky130_fd_sc_hd__dlrtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxbn_1
+Cell sky130_fd_sc_hd__dlxbn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxbn_2
+Cell sky130_fd_sc_hd__dlxbn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxbp_1
+Cell sky130_fd_sc_hd__dlxbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxtn_1
+Cell sky130_fd_sc_hd__dlxtn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxtn_2
+Cell sky130_fd_sc_hd__dlxtn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxtn_4
+Cell sky130_fd_sc_hd__dlxtn_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlxtp_1
+Cell sky130_fd_sc_hd__dlxtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlygate4sd1_1
+Cell sky130_fd_sc_hd__dlygate4sd1_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlygate4sd2_1
+Cell sky130_fd_sc_hd__dlygate4sd2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlygate4sd3_1
+Cell sky130_fd_sc_hd__dlygate4sd3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlymetal6s2s_1
+Cell sky130_fd_sc_hd__dlymetal6s2s_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlymetal6s4s_1
+Cell sky130_fd_sc_hd__dlymetal6s4s_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__dlymetal6s6s_1
+Cell sky130_fd_sc_hd__dlymetal6s6s_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__ebufn_1
+Cell sky130_fd_sc_hd__ebufn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__ebufn_2
+Cell sky130_fd_sc_hd__ebufn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__ebufn_4
+Cell sky130_fd_sc_hd__ebufn_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__ebufn_8
+Cell sky130_fd_sc_hd__ebufn_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__edfxbp_1
+Cell sky130_fd_sc_hd__edfxbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__edfxtp_1
+Cell sky130_fd_sc_hd__edfxtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvn_0
+Cell sky130_fd_sc_hd__einvn_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvn_1
+Cell sky130_fd_sc_hd__einvn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvn_2
+Cell sky130_fd_sc_hd__einvn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvn_4
+Cell sky130_fd_sc_hd__einvn_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvn_8
+Cell sky130_fd_sc_hd__einvn_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvp_1
+Cell sky130_fd_sc_hd__einvp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvp_2
+Cell sky130_fd_sc_hd__einvp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvp_4
+Cell sky130_fd_sc_hd__einvp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__einvp_8
+Cell sky130_fd_sc_hd__einvp_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__fa_1
+Cell sky130_fd_sc_hd__fa_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__fa_2
+Cell sky130_fd_sc_hd__fa_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__fa_4
+Cell sky130_fd_sc_hd__fa_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__fah_1
+Cell sky130_fd_sc_hd__fah_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__fahcin_1
+Cell sky130_fd_sc_hd__fahcin_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__fahcon_1
+Cell sky130_fd_sc_hd__fahcon_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__fill_1
+Cell sky130_fd_sc_hd__fill_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__fill_2
+Cell sky130_fd_sc_hd__fill_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__fill_4
+Cell sky130_fd_sc_hd__fill_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__fill_8
+Cell sky130_fd_sc_hd__fill_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__ha_1
+Cell sky130_fd_sc_hd__ha_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__ha_2
+Cell sky130_fd_sc_hd__ha_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__ha_4
+Cell sky130_fd_sc_hd__ha_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_1
+Cell sky130_fd_sc_hd__inv_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_2
+Cell sky130_fd_sc_hd__inv_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_4
+Cell sky130_fd_sc_hd__inv_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_6
+Cell sky130_fd_sc_hd__inv_6 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_8
+Cell sky130_fd_sc_hd__inv_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_12
+Cell sky130_fd_sc_hd__inv_12 port order was modified.
+Annotating cell sky130_fd_sc_hd__inv_16
+Cell sky130_fd_sc_hd__inv_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_bleeder_1
+Cell sky130_fd_sc_hd__lpflow_bleeder_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkbufkapwr_1
+Cell sky130_fd_sc_hd__lpflow_clkbufkapwr_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkbufkapwr_2
+Cell sky130_fd_sc_hd__lpflow_clkbufkapwr_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkbufkapwr_4
+Cell sky130_fd_sc_hd__lpflow_clkbufkapwr_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkbufkapwr_8
+Cell sky130_fd_sc_hd__lpflow_clkbufkapwr_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkbufkapwr_16
+Cell sky130_fd_sc_hd__lpflow_clkbufkapwr_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkinvkapwr_1
+Cell sky130_fd_sc_hd__lpflow_clkinvkapwr_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkinvkapwr_2
+Cell sky130_fd_sc_hd__lpflow_clkinvkapwr_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkinvkapwr_4
+Cell sky130_fd_sc_hd__lpflow_clkinvkapwr_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkinvkapwr_8
+Cell sky130_fd_sc_hd__lpflow_clkinvkapwr_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_clkinvkapwr_16
+Cell sky130_fd_sc_hd__lpflow_clkinvkapwr_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_decapkapwr_3
+Cell sky130_fd_sc_hd__lpflow_decapkapwr_3 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_decapkapwr_4
+Cell sky130_fd_sc_hd__lpflow_decapkapwr_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_decapkapwr_6
+Cell sky130_fd_sc_hd__lpflow_decapkapwr_6 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_decapkapwr_8
+Cell sky130_fd_sc_hd__lpflow_decapkapwr_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_decapkapwr_12
+Cell sky130_fd_sc_hd__lpflow_decapkapwr_12 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_inputiso0n_1
+Cell sky130_fd_sc_hd__lpflow_inputiso0n_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_inputiso0p_1
+Cell sky130_fd_sc_hd__lpflow_inputiso0p_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_inputiso1n_1
+Cell sky130_fd_sc_hd__lpflow_inputiso1n_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_inputiso1p_1
+Cell sky130_fd_sc_hd__lpflow_inputiso1p_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_inputisolatch_1
+Cell sky130_fd_sc_hd__lpflow_inputisolatch_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrc_1
+Cell sky130_fd_sc_hd__lpflow_isobufsrc_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrc_2
+Cell sky130_fd_sc_hd__lpflow_isobufsrc_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrc_4
+Cell sky130_fd_sc_hd__lpflow_isobufsrc_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrc_8
+Cell sky130_fd_sc_hd__lpflow_isobufsrc_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrc_16
+Cell sky130_fd_sc_hd__lpflow_isobufsrc_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_isobufsrckapwr_16
+Cell sky130_fd_sc_hd__lpflow_isobufsrckapwr_16 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4
+Cell sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__macro_sparecell
+Cell sky130_fd_sc_hd__macro_sparecell port order was modified.
+Annotating cell sky130_fd_sc_hd__maj3_1
+Cell sky130_fd_sc_hd__maj3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__maj3_2
+Cell sky130_fd_sc_hd__maj3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__maj3_4
+Cell sky130_fd_sc_hd__maj3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2_1
+Cell sky130_fd_sc_hd__mux2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2_2
+Cell sky130_fd_sc_hd__mux2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2_4
+Cell sky130_fd_sc_hd__mux2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2_8
+Cell sky130_fd_sc_hd__mux2_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2i_1
+Cell sky130_fd_sc_hd__mux2i_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2i_2
+Cell sky130_fd_sc_hd__mux2i_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux2i_4
+Cell sky130_fd_sc_hd__mux2i_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux4_1
+Cell sky130_fd_sc_hd__mux4_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux4_2
+Cell sky130_fd_sc_hd__mux4_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__mux4_4
+Cell sky130_fd_sc_hd__mux4_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2_1
+Cell sky130_fd_sc_hd__nand2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2_2
+Cell sky130_fd_sc_hd__nand2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2_4
+Cell sky130_fd_sc_hd__nand2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2_8
+Cell sky130_fd_sc_hd__nand2_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2b_1
+Cell sky130_fd_sc_hd__nand2b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2b_2
+Cell sky130_fd_sc_hd__nand2b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand2b_4
+Cell sky130_fd_sc_hd__nand2b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3_1
+Cell sky130_fd_sc_hd__nand3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3_2
+Cell sky130_fd_sc_hd__nand3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3_4
+Cell sky130_fd_sc_hd__nand3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3b_1
+Cell sky130_fd_sc_hd__nand3b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3b_2
+Cell sky130_fd_sc_hd__nand3b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand3b_4
+Cell sky130_fd_sc_hd__nand3b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4_1
+Cell sky130_fd_sc_hd__nand4_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4_2
+Cell sky130_fd_sc_hd__nand4_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4_4
+Cell sky130_fd_sc_hd__nand4_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4b_1
+Cell sky130_fd_sc_hd__nand4b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4b_2
+Cell sky130_fd_sc_hd__nand4b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4b_4
+Cell sky130_fd_sc_hd__nand4b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4bb_1
+Cell sky130_fd_sc_hd__nand4bb_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4bb_2
+Cell sky130_fd_sc_hd__nand4bb_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nand4bb_4
+Cell sky130_fd_sc_hd__nand4bb_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2_1
+Cell sky130_fd_sc_hd__nor2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2_2
+Cell sky130_fd_sc_hd__nor2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2_4
+Cell sky130_fd_sc_hd__nor2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2_8
+Cell sky130_fd_sc_hd__nor2_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2b_1
+Cell sky130_fd_sc_hd__nor2b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2b_2
+Cell sky130_fd_sc_hd__nor2b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor2b_4
+Cell sky130_fd_sc_hd__nor2b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3_1
+Cell sky130_fd_sc_hd__nor3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3_2
+Cell sky130_fd_sc_hd__nor3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3_4
+Cell sky130_fd_sc_hd__nor3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3b_1
+Cell sky130_fd_sc_hd__nor3b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3b_2
+Cell sky130_fd_sc_hd__nor3b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor3b_4
+Cell sky130_fd_sc_hd__nor3b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4_1
+Cell sky130_fd_sc_hd__nor4_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4_2
+Cell sky130_fd_sc_hd__nor4_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4_4
+Cell sky130_fd_sc_hd__nor4_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4b_1
+Cell sky130_fd_sc_hd__nor4b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4b_2
+Cell sky130_fd_sc_hd__nor4b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4b_4
+Cell sky130_fd_sc_hd__nor4b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4bb_1
+Cell sky130_fd_sc_hd__nor4bb_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4bb_2
+Cell sky130_fd_sc_hd__nor4bb_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__nor4bb_4
+Cell sky130_fd_sc_hd__nor4bb_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2a_1
+Cell sky130_fd_sc_hd__o2bb2a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2a_2
+Cell sky130_fd_sc_hd__o2bb2a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2a_4
+Cell sky130_fd_sc_hd__o2bb2a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2ai_1
+Cell sky130_fd_sc_hd__o2bb2ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2ai_2
+Cell sky130_fd_sc_hd__o2bb2ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2bb2ai_4
+Cell sky130_fd_sc_hd__o2bb2ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21a_1
+Cell sky130_fd_sc_hd__o21a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21a_2
+Cell sky130_fd_sc_hd__o21a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21a_4
+Cell sky130_fd_sc_hd__o21a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ai_0
+Cell sky130_fd_sc_hd__o21ai_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ai_1
+Cell sky130_fd_sc_hd__o21ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ai_2
+Cell sky130_fd_sc_hd__o21ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ai_4
+Cell sky130_fd_sc_hd__o21ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ba_1
+Cell sky130_fd_sc_hd__o21ba_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ba_2
+Cell sky130_fd_sc_hd__o21ba_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21ba_4
+Cell sky130_fd_sc_hd__o21ba_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21bai_1
+Cell sky130_fd_sc_hd__o21bai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21bai_2
+Cell sky130_fd_sc_hd__o21bai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o21bai_4
+Cell sky130_fd_sc_hd__o21bai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22a_1
+Cell sky130_fd_sc_hd__o22a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22a_2
+Cell sky130_fd_sc_hd__o22a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22a_4
+Cell sky130_fd_sc_hd__o22a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22ai_1
+Cell sky130_fd_sc_hd__o22ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22ai_2
+Cell sky130_fd_sc_hd__o22ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o22ai_4
+Cell sky130_fd_sc_hd__o22ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31a_1
+Cell sky130_fd_sc_hd__o31a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31a_2
+Cell sky130_fd_sc_hd__o31a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31a_4
+Cell sky130_fd_sc_hd__o31a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31ai_1
+Cell sky130_fd_sc_hd__o31ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31ai_2
+Cell sky130_fd_sc_hd__o31ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o31ai_4
+Cell sky130_fd_sc_hd__o31ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32a_1
+Cell sky130_fd_sc_hd__o32a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32a_2
+Cell sky130_fd_sc_hd__o32a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32a_4
+Cell sky130_fd_sc_hd__o32a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32ai_1
+Cell sky130_fd_sc_hd__o32ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32ai_2
+Cell sky130_fd_sc_hd__o32ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o32ai_4
+Cell sky130_fd_sc_hd__o32ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41a_1
+Cell sky130_fd_sc_hd__o41a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41a_2
+Cell sky130_fd_sc_hd__o41a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41a_4
+Cell sky130_fd_sc_hd__o41a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41ai_1
+Cell sky130_fd_sc_hd__o41ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41ai_2
+Cell sky130_fd_sc_hd__o41ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o41ai_4
+Cell sky130_fd_sc_hd__o41ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211a_1
+Cell sky130_fd_sc_hd__o211a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211a_2
+Cell sky130_fd_sc_hd__o211a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211a_4
+Cell sky130_fd_sc_hd__o211a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211ai_1
+Cell sky130_fd_sc_hd__o211ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211ai_2
+Cell sky130_fd_sc_hd__o211ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o211ai_4
+Cell sky130_fd_sc_hd__o211ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221a_1
+Cell sky130_fd_sc_hd__o221a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221a_2
+Cell sky130_fd_sc_hd__o221a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221a_4
+Cell sky130_fd_sc_hd__o221a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221ai_1
+Cell sky130_fd_sc_hd__o221ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221ai_2
+Cell sky130_fd_sc_hd__o221ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o221ai_4
+Cell sky130_fd_sc_hd__o221ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311a_1
+Cell sky130_fd_sc_hd__o311a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311a_2
+Cell sky130_fd_sc_hd__o311a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311a_4
+Cell sky130_fd_sc_hd__o311a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311ai_0
+Cell sky130_fd_sc_hd__o311ai_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311ai_1
+Cell sky130_fd_sc_hd__o311ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311ai_2
+Cell sky130_fd_sc_hd__o311ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o311ai_4
+Cell sky130_fd_sc_hd__o311ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111a_1
+Cell sky130_fd_sc_hd__o2111a_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111a_2
+Cell sky130_fd_sc_hd__o2111a_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111a_4
+Cell sky130_fd_sc_hd__o2111a_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111ai_1
+Cell sky130_fd_sc_hd__o2111ai_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111ai_2
+Cell sky130_fd_sc_hd__o2111ai_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__o2111ai_4
+Cell sky130_fd_sc_hd__o2111ai_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2_0
+Cell sky130_fd_sc_hd__or2_0 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2_1
+Cell sky130_fd_sc_hd__or2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2_2
+Cell sky130_fd_sc_hd__or2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2_4
+Cell sky130_fd_sc_hd__or2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2b_1
+Cell sky130_fd_sc_hd__or2b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2b_2
+Cell sky130_fd_sc_hd__or2b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or2b_4
+Cell sky130_fd_sc_hd__or2b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3_1
+Cell sky130_fd_sc_hd__or3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3_2
+Cell sky130_fd_sc_hd__or3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3_4
+Cell sky130_fd_sc_hd__or3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3b_1
+Cell sky130_fd_sc_hd__or3b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3b_2
+Cell sky130_fd_sc_hd__or3b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or3b_4
+Cell sky130_fd_sc_hd__or3b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4_1
+Cell sky130_fd_sc_hd__or4_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4_2
+Cell sky130_fd_sc_hd__or4_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4_4
+Cell sky130_fd_sc_hd__or4_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4b_1
+Cell sky130_fd_sc_hd__or4b_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4b_2
+Cell sky130_fd_sc_hd__or4b_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4b_4
+Cell sky130_fd_sc_hd__or4b_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4bb_1
+Cell sky130_fd_sc_hd__or4bb_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4bb_2
+Cell sky130_fd_sc_hd__or4bb_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__or4bb_4
+Cell sky130_fd_sc_hd__or4bb_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__probe_p_8
+Cell sky130_fd_sc_hd__probe_p_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__probec_p_8
+Cell sky130_fd_sc_hd__probec_p_8 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfbbn_1
+Cell sky130_fd_sc_hd__sdfbbn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfbbn_2
+Cell sky130_fd_sc_hd__sdfbbn_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfbbp_1
+Cell sky130_fd_sc_hd__sdfbbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrbp_1
+Cell sky130_fd_sc_hd__sdfrbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrbp_2
+Cell sky130_fd_sc_hd__sdfrbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrtn_1
+Cell sky130_fd_sc_hd__sdfrtn_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrtp_1
+Cell sky130_fd_sc_hd__sdfrtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrtp_2
+Cell sky130_fd_sc_hd__sdfrtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfrtp_4
+Cell sky130_fd_sc_hd__sdfrtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfsbp_1
+Cell sky130_fd_sc_hd__sdfsbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfsbp_2
+Cell sky130_fd_sc_hd__sdfsbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfstp_1
+Cell sky130_fd_sc_hd__sdfstp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfstp_2
+Cell sky130_fd_sc_hd__sdfstp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfstp_4
+Cell sky130_fd_sc_hd__sdfstp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfxbp_1
+Cell sky130_fd_sc_hd__sdfxbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfxbp_2
+Cell sky130_fd_sc_hd__sdfxbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfxtp_1
+Cell sky130_fd_sc_hd__sdfxtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfxtp_2
+Cell sky130_fd_sc_hd__sdfxtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdfxtp_4
+Cell sky130_fd_sc_hd__sdfxtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdlclkp_1
+Cell sky130_fd_sc_hd__sdlclkp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdlclkp_2
+Cell sky130_fd_sc_hd__sdlclkp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sdlclkp_4
+Cell sky130_fd_sc_hd__sdlclkp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__sedfxbp_1
+Cell sky130_fd_sc_hd__sedfxbp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sedfxbp_2
+Cell sky130_fd_sc_hd__sedfxbp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sedfxtp_1
+Cell sky130_fd_sc_hd__sedfxtp_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__sedfxtp_2
+Cell sky130_fd_sc_hd__sedfxtp_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__sedfxtp_4
+Cell sky130_fd_sc_hd__sedfxtp_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__tap_1
+Cell sky130_fd_sc_hd__tap_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__tap_2
+Cell sky130_fd_sc_hd__tap_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__tapvgnd2_1
+Cell sky130_fd_sc_hd__tapvgnd2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__tapvgnd_1
+Cell sky130_fd_sc_hd__tapvgnd_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__tapvpwrvgnd_1
+Cell sky130_fd_sc_hd__tapvpwrvgnd_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor2_1
+Cell sky130_fd_sc_hd__xnor2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor2_2
+Cell sky130_fd_sc_hd__xnor2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor2_4
+Cell sky130_fd_sc_hd__xnor2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor3_1
+Cell sky130_fd_sc_hd__xnor3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor3_2
+Cell sky130_fd_sc_hd__xnor3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__xnor3_4
+Cell sky130_fd_sc_hd__xnor3_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor2_1
+Cell sky130_fd_sc_hd__xor2_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor2_2
+Cell sky130_fd_sc_hd__xor2_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor2_4
+Cell sky130_fd_sc_hd__xor2_4 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor3_1
+Cell sky130_fd_sc_hd__xor3_1 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor3_2
+Cell sky130_fd_sc_hd__xor3_2 port order was modified.
+Annotating cell sky130_fd_sc_hd__xor3_4
+Cell sky130_fd_sc_hd__xor3_4 port order was modified.
+Processing rv32i_core
+Extracting sky130_fd_sc_hd__buf_6 into sky130_fd_sc_hd__buf_6.ext:
+Extracting sky130_fd_sc_hd__buf_4 into sky130_fd_sc_hd__buf_4.ext:
+Extracting sky130_fd_sc_hd__clkbuf_4 into sky130_fd_sc_hd__clkbuf_4.ext:
+Extracting sky130_fd_sc_hd__clkbuf_8 into sky130_fd_sc_hd__clkbuf_8.ext:
+Extracting sky130_fd_sc_hd__buf_2 into sky130_fd_sc_hd__buf_2.ext:
+Extracting sky130_fd_sc_hd__clkbuf_2 into sky130_fd_sc_hd__clkbuf_2.ext:
+Extracting sky130_fd_sc_hd__buf_8 into sky130_fd_sc_hd__buf_8.ext:
+Extracting sky130_fd_sc_hd__conb_1 into sky130_fd_sc_hd__conb_1.ext:
+Extracting sky130_fd_sc_hd__dlymetal6s4s_1 into
+sky130_fd_sc_hd__dlymetal6s4s_1.ext:
+Extracting sky130_fd_sc_hd__clkdlybuf4s25_1 into
+sky130_fd_sc_hd__clkdlybuf4s25_1.ext:
+Extracting sky130_fd_sc_hd__dlymetal6s2s_1 into
+sky130_fd_sc_hd__dlymetal6s2s_1.ext:
+Extracting sky130_fd_sc_hd__buf_1 into sky130_fd_sc_hd__buf_1.ext:
+Extracting sky130_fd_sc_hd__buf_12 into sky130_fd_sc_hd__buf_12.ext:
+Extracting sky130_fd_sc_hd__clkdlybuf4s15_2 into
+sky130_fd_sc_hd__clkdlybuf4s15_2.ext:
+Extracting sky130_fd_sc_hd__dlygate4sd3_1 into
+sky130_fd_sc_hd__dlygate4sd3_1.ext:
+Extracting sky130_fd_sc_hd__dlygate4sd1_1 into
+sky130_fd_sc_hd__dlygate4sd1_1.ext:
+Extracting sky130_fd_sc_hd__inv_8 into sky130_fd_sc_hd__inv_8.ext:
+Extracting sky130_fd_sc_hd__clkinv_2 into sky130_fd_sc_hd__clkinv_2.ext:
+Extracting sky130_fd_sc_hd__bufinv_16 into sky130_fd_sc_hd__bufinv_16.ext:
+Extracting sky130_fd_sc_hd__clkbuf_16 into sky130_fd_sc_hd__clkbuf_16.ext:
+Extracting sky130_fd_sc_hd__dfxtp_2 into sky130_fd_sc_hd__dfxtp_2.ext:
+Extracting sky130_fd_sc_hd__and2_2 into sky130_fd_sc_hd__and2_2.ext:
+Extracting sky130_fd_sc_hd__o221a_2 into sky130_fd_sc_hd__o221a_2.ext:
+Extracting sky130_fd_sc_hd__a21o_2 into sky130_fd_sc_hd__a21o_2.ext:
+Extracting sky130_fd_sc_hd__nor2_2 into sky130_fd_sc_hd__nor2_2.ext:
+Extracting sky130_fd_sc_hd__xnor2_2 into sky130_fd_sc_hd__xnor2_2.ext:
+Extracting sky130_fd_sc_hd__xor2_2 into sky130_fd_sc_hd__xor2_2.ext:
+Extracting sky130_fd_sc_hd__a32o_2 into sky130_fd_sc_hd__a32o_2.ext:
+Extracting sky130_fd_sc_hd__o211a_2 into sky130_fd_sc_hd__o211a_2.ext:
+Extracting sky130_fd_sc_hd__a221o_2 into sky130_fd_sc_hd__a221o_2.ext:
+Extracting sky130_fd_sc_hd__o21ba_2 into sky130_fd_sc_hd__o21ba_2.ext:
+Extracting sky130_fd_sc_hd__nand2_2 into sky130_fd_sc_hd__nand2_2.ext:
+Extracting sky130_fd_sc_hd__a211o_2 into sky130_fd_sc_hd__a211o_2.ext:
+Extracting sky130_fd_sc_hd__a2bb2o_2 into sky130_fd_sc_hd__a2bb2o_2.ext:
+Extracting sky130_fd_sc_hd__mux2_1 into sky130_fd_sc_hd__mux2_1.ext:
+Extracting sky130_fd_sc_hd__a21oi_2 into sky130_fd_sc_hd__a21oi_2.ext:
+Extracting sky130_fd_sc_hd__inv_2 into sky130_fd_sc_hd__inv_2.ext:
+Extracting sky130_fd_sc_hd__or2_2 into sky130_fd_sc_hd__or2_2.ext:
+Extracting sky130_fd_sc_hd__nor3_2 into sky130_fd_sc_hd__nor3_2.ext:
+Extracting sky130_fd_sc_hd__and3_2 into sky130_fd_sc_hd__and3_2.ext:
+Extracting sky130_fd_sc_hd__a221oi_2 into sky130_fd_sc_hd__a221oi_2.ext:
+Extracting sky130_fd_sc_hd__a31o_2 into sky130_fd_sc_hd__a31o_2.ext:
+Extracting sky130_fd_sc_hd__a21bo_2 into sky130_fd_sc_hd__a21bo_2.ext:
+Extracting sky130_fd_sc_hd__o21ai_2 into sky130_fd_sc_hd__o21ai_2.ext:
+Extracting sky130_fd_sc_hd__a22o_2 into sky130_fd_sc_hd__a22o_2.ext:
+Extracting sky130_fd_sc_hd__o2111ai_2 into sky130_fd_sc_hd__o2111ai_2.ext:
+Extracting sky130_fd_sc_hd__or3_2 into sky130_fd_sc_hd__or3_2.ext:
+Extracting sky130_fd_sc_hd__o21a_2 into sky130_fd_sc_hd__o21a_2.ext:
+Extracting sky130_fd_sc_hd__nand3_2 into sky130_fd_sc_hd__nand3_2.ext:
+Extracting sky130_fd_sc_hd__and3b_2 into sky130_fd_sc_hd__and3b_2.ext:
+Extracting sky130_fd_sc_hd__o31a_2 into sky130_fd_sc_hd__o31a_2.ext:
+Extracting sky130_fd_sc_hd__nand4_2 into sky130_fd_sc_hd__nand4_2.ext:
+Extracting sky130_fd_sc_hd__o22a_2 into sky130_fd_sc_hd__o22a_2.ext:
+Extracting sky130_fd_sc_hd__a311oi_2 into sky130_fd_sc_hd__a311oi_2.ext:
+Extracting sky130_fd_sc_hd__a21boi_2 into sky130_fd_sc_hd__a21boi_2.ext:
+Extracting sky130_fd_sc_hd__nand2b_2 into sky130_fd_sc_hd__nand2b_2.ext:
+Extracting sky130_fd_sc_hd__o21bai_2 into sky130_fd_sc_hd__o21bai_2.ext:
+Extracting sky130_fd_sc_hd__a21oi_4 into sky130_fd_sc_hd__a21oi_4.ext:
+Extracting sky130_fd_sc_hd__a31oi_2 into sky130_fd_sc_hd__a31oi_2.ext:
+Extracting sky130_fd_sc_hd__or4b_4 into sky130_fd_sc_hd__or4b_4.ext:
+Extracting sky130_fd_sc_hd__or4_2 into sky130_fd_sc_hd__or4_2.ext:
+Extracting sky130_fd_sc_hd__and4_2 into sky130_fd_sc_hd__and4_2.ext:
+Extracting sky130_fd_sc_hd__o311a_2 into sky130_fd_sc_hd__o311a_2.ext:
+Extracting sky130_fd_sc_hd__o31ai_2 into sky130_fd_sc_hd__o31ai_2.ext:
+Extracting sky130_fd_sc_hd__or3b_2 into sky130_fd_sc_hd__or3b_2.ext:
+Extracting sky130_fd_sc_hd__o32a_2 into sky130_fd_sc_hd__o32a_2.ext:
+Extracting sky130_fd_sc_hd__o2bb2a_2 into sky130_fd_sc_hd__o2bb2a_2.ext:
+Extracting sky130_fd_sc_hd__or4b_2 into sky130_fd_sc_hd__or4b_2.ext:
+Extracting sky130_fd_sc_hd__o221ai_2 into sky130_fd_sc_hd__o221ai_2.ext:
+Extracting sky130_fd_sc_hd__a211oi_2 into sky130_fd_sc_hd__a211oi_2.ext:
+Extracting sky130_fd_sc_hd__or4_4 into sky130_fd_sc_hd__or4_4.ext:
+Extracting sky130_fd_sc_hd__o2111a_2 into sky130_fd_sc_hd__o2111a_2.ext:
+Extracting sky130_fd_sc_hd__and2b_2 into sky130_fd_sc_hd__and2b_2.ext:
+Extracting sky130_fd_sc_hd__and4b_2 into sky130_fd_sc_hd__and4b_2.ext:
+Extracting sky130_fd_sc_hd__nand3b_2 into sky130_fd_sc_hd__nand3b_2.ext:
+Extracting sky130_fd_sc_hd__mux2_2 into sky130_fd_sc_hd__mux2_2.ext:
+Extracting sky130_fd_sc_hd__mux2_4 into sky130_fd_sc_hd__mux2_4.ext:
+Extracting sky130_fd_sc_hd__nor3b_2 into sky130_fd_sc_hd__nor3b_2.ext:
+Extracting sky130_fd_sc_hd__nor2_4 into sky130_fd_sc_hd__nor2_4.ext:
+Extracting sky130_fd_sc_hd__nand2b_4 into sky130_fd_sc_hd__nand2b_4.ext:
+Extracting sky130_fd_sc_hd__a31o_4 into sky130_fd_sc_hd__a31o_4.ext:
+Extracting sky130_fd_sc_hd__a311o_2 into sky130_fd_sc_hd__a311o_2.ext:
+Extracting sky130_fd_sc_hd__or3b_4 into sky130_fd_sc_hd__or3b_4.ext:
+Extracting sky130_fd_sc_hd__and3_4 into sky130_fd_sc_hd__and3_4.ext:
+Extracting sky130_fd_sc_hd__a21o_4 into sky130_fd_sc_hd__a21o_4.ext:
+Extracting sky130_fd_sc_hd__a2111o_2 into sky130_fd_sc_hd__a2111o_2.ext:
+Extracting sky130_fd_sc_hd__or3_4 into sky130_fd_sc_hd__or3_4.ext:
+Extracting sky130_fd_sc_hd__o21ai_4 into sky130_fd_sc_hd__o21ai_4.ext:
+Extracting sky130_fd_sc_hd__a211o_4 into sky130_fd_sc_hd__a211o_4.ext:
+Extracting sky130_fd_sc_hd__o31ai_4 into sky130_fd_sc_hd__o31ai_4.ext:
+Extracting sky130_fd_sc_hd__o211ai_2 into sky130_fd_sc_hd__o211ai_2.ext:
+Extracting sky130_fd_sc_hd__nand3_4 into sky130_fd_sc_hd__nand3_4.ext:
+Extracting sky130_fd_sc_hd__a221oi_4 into sky130_fd_sc_hd__a221oi_4.ext:
+Extracting sky130_fd_sc_hd__o21bai_4 into sky130_fd_sc_hd__o21bai_4.ext:
+Extracting sky130_fd_sc_hd__a41o_2 into sky130_fd_sc_hd__a41o_2.ext:
+Extracting sky130_fd_sc_hd__a2bb2o_4 into sky130_fd_sc_hd__a2bb2o_4.ext:
+Extracting sky130_fd_sc_hd__o21a_4 into sky130_fd_sc_hd__o21a_4.ext:
+Extracting sky130_fd_sc_hd__o41a_2 into sky130_fd_sc_hd__o41a_2.ext:
+Extracting sky130_fd_sc_hd__and2_4 into sky130_fd_sc_hd__and2_4.ext:
+Extracting sky130_fd_sc_hd__o22ai_2 into sky130_fd_sc_hd__o22ai_2.ext:
+Extracting sky130_fd_sc_hd__a21bo_4 into sky130_fd_sc_hd__a21bo_4.ext:
+Extracting sky130_fd_sc_hd__a22oi_2 into sky130_fd_sc_hd__a22oi_2.ext:
+Extracting sky130_fd_sc_hd__a211oi_4 into sky130_fd_sc_hd__a211oi_4.ext:
+Extracting sky130_fd_sc_hd__and4bb_2 into sky130_fd_sc_hd__and4bb_2.ext:
+Extracting sky130_fd_sc_hd__nor4b_4 into sky130_fd_sc_hd__nor4b_4.ext:
+Extracting sky130_fd_sc_hd__or2_4 into sky130_fd_sc_hd__or2_4.ext:
+Extracting sky130_fd_sc_hd__mux4_2 into sky130_fd_sc_hd__mux4_2.ext:
+Extracting sky130_fd_sc_hd__xnor2_4 into sky130_fd_sc_hd__xnor2_4.ext:
+Extracting sky130_fd_sc_hd__o41a_4 into sky130_fd_sc_hd__o41a_4.ext:
+Extracting sky130_fd_sc_hd__o31a_4 into sky130_fd_sc_hd__o31a_4.ext:
+Extracting sky130_fd_sc_hd__o211a_4 into sky130_fd_sc_hd__o211a_4.ext:
+Extracting sky130_fd_sc_hd__o311a_4 into sky130_fd_sc_hd__o311a_4.ext:
+Extracting sky130_fd_sc_hd__inv_4 into sky130_fd_sc_hd__inv_4.ext:
+Extracting sky130_fd_sc_hd__a31oi_4 into sky130_fd_sc_hd__a31oi_4.ext:
+Extracting sky130_fd_sc_hd__a32oi_4 into sky130_fd_sc_hd__a32oi_4.ext:
+Extracting sky130_fd_sc_hd__o211ai_4 into sky130_fd_sc_hd__o211ai_4.ext:
+Extracting sky130_fd_sc_hd__nor2_1 into sky130_fd_sc_hd__nor2_1.ext:
+Extracting sky130_fd_sc_hd__nand2_4 into sky130_fd_sc_hd__nand2_4.ext:
+Extracting sky130_fd_sc_hd__o32ai_4 into sky130_fd_sc_hd__o32ai_4.ext:
+Extracting sky130_fd_sc_hd__tapvpwrvgnd_1 into
+sky130_fd_sc_hd__tapvpwrvgnd_1.ext:
+Extracting sky130_fd_sc_hd__decap_3 into sky130_fd_sc_hd__decap_3.ext:
+Extracting sky130_fd_sc_hd__fill_2 into sky130_fd_sc_hd__fill_2.ext:
+Extracting sky130_fd_sc_hd__fill_1 into sky130_fd_sc_hd__fill_1.ext:
+Extracting sky130_fd_sc_hd__diode_2 into sky130_fd_sc_hd__diode_2.ext:
+Extracting rv32i_core into rv32i_core.ext:
+exttospice finished.
+──────────────── Spice Extraction-based Illegal Overlap Checker ────────────────
+──────── ▶ Checker.IllegalOverlap ────────
+[18:37:40] VERBOSE  Running 'Checker.IllegalOverlap' at             step.py:1138
+                    'runs/glui-20260904-232539/69-checker-illegalov
+                    erlap'…
+[18:37:40] INFO     Check for Magic Illegal Overlap errors clear. checker.py:131
+────────────────────────────────── Netgen LVS ──────────────────────────────────
+──────── ▶ Netgen.LVS ────────
+[18:37:40] VERBOSE  Running 'Netgen.LVS' at                         step.py:1138
+                    'runs/glui-20260904-232539/70-netgen-lvs'…
+[18:37:40] VERBOSE  Logging subprocess to                           step.py:1338
+                    'runs/glui-20260904-232539/70-netgen-lvs/netgen
+                    -lvs.log'…
+Netgen 1.5.316 compiled on Tue Feb 10 10:44:29 UTC 2026
+Warning: netgen command 'format' use fully-qualified name '::netgen::format'
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Warning:  A case-insensitive file has been read and so the      verilog file
+must be treated case-insensitive to match.
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice'...
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_01v8
+Creating placeholder cell definition.
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_20_12.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_40_12.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_60_12.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_80_12.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_12.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_2.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_4.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_8.spice'...
+Reading SPICE netlist file
+'/Users/surya/.ciel/ciel/sky130/versions/8afc8346a57fe1ab7934ba5a6056ea8b43078e7
+1/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice'...
+Call to undefined subcircuit sky130_fd_pr__res_generic_po
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__special_nfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__diode_pw2nd_05v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__special_pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_sc_hd__nand2_2
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_sc_hd__nor2_2
+Creating placeholder cell definition.
+Reading Verilog netlist file
+'/Users/surya/Projects/RV32I/runs/glui-20260904-232539/52-openroad-fillinsertion
+/rv32i_core.pnl.v'...
+Warning:  A case-insensitive file has been read and so the      verilog file
+must be treated case-insensitive to match.
+Note:  Implicit pin X in instance clkload0 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload1 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload10 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload11 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload12 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload13 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload14 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload15 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload16 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload17 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload18 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload19 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload2 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload20 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload21 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload22 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload23 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload24 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload25 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload26 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload27 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload28 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload29 of sky130_fd_sc_hd__bufinv_16 in
+cell rv32i_core
+Note:  Implicit pin X in instance clkload3 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload30 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload31 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload32 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload33 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload34 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload35 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload36 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload37 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload38 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload39 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload4 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload40 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload41 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload42 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload43 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload44 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload45 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload46 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload47 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload48 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload49 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload5 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload50 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload51 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload52 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload53 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload54 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload55 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload56 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload57 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload58 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload59 of sky130_fd_sc_hd__bufinv_16 in
+cell rv32i_core
+Note:  Implicit pin X in instance clkload6 of sky130_fd_sc_hd__clkbuf_4 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload60 of sky130_fd_sc_hd__bufinv_16 in
+cell rv32i_core
+Note:  Implicit pin X in instance clkload61 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload62 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload63 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload64 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload65 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload66 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload67 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload68 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload69 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload7 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload70 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload71 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload72 of sky130_fd_sc_hd__clkinv_2 in cell
+rv32i_core
+Note:  Implicit pin Y in instance clkload73 of sky130_fd_sc_hd__inv_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload8 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin X in instance clkload9 of sky130_fd_sc_hd__clkbuf_8 in cell
+rv32i_core
+Note:  Implicit pin LO in instance rv32i_core of sky130_fd_sc_hd__conb_1 in cell
+rv32i_core
+Treating empty subcircuits as black-box cells
+Generating JSON file result
+Reading setup file
+/nix/store/wf3vpghqpfw37w1did4cqvg606hx6708-python3-3.13.9-env/lib/python3.13/si
+te-packages/librelane/scripts/netgen/setup.tcl
+Model sky130_fd_pr__res_generic_po pin 1 == 2
+No property value found for device sky130_fd_pr__res_generic_po
+No property mult found for device sky130_fd_pr__res_generic_po
+Model sky130_fd_pr__nfet_01v8 pin 1 == 3
+No property mult found for device sky130_fd_pr__nfet_01v8
+No property sa found for device sky130_fd_pr__nfet_01v8
+No property sb found for device sky130_fd_pr__nfet_01v8
+No property sd found for device sky130_fd_pr__nfet_01v8
+No property nf found for device sky130_fd_pr__nfet_01v8
+No property nrd found for device sky130_fd_pr__nfet_01v8
+No property nrs found for device sky130_fd_pr__nfet_01v8
+No property area found for device sky130_fd_pr__nfet_01v8
+No property perim found for device sky130_fd_pr__nfet_01v8
+No property topography found for device sky130_fd_pr__nfet_01v8
+Model sky130_fd_pr__pfet_01v8_hvt pin 1 == 3
+No property mult found for device sky130_fd_pr__pfet_01v8_hvt
+No property sa found for device sky130_fd_pr__pfet_01v8_hvt
+No property sb found for device sky130_fd_pr__pfet_01v8_hvt
+No property sd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nf found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrs found for device sky130_fd_pr__pfet_01v8_hvt
+No property area found for device sky130_fd_pr__pfet_01v8_hvt
+No property perim found for device sky130_fd_pr__pfet_01v8_hvt
+No property topography found for device sky130_fd_pr__pfet_01v8_hvt
+Model sky130_fd_pr__special_nfet_01v8 pin 1 == 3
+No property as found for device sky130_fd_pr__special_nfet_01v8
+No property ad found for device sky130_fd_pr__special_nfet_01v8
+No property ps found for device sky130_fd_pr__special_nfet_01v8
+No property pd found for device sky130_fd_pr__special_nfet_01v8
+No property mult found for device sky130_fd_pr__special_nfet_01v8
+No property sa found for device sky130_fd_pr__special_nfet_01v8
+No property sb found for device sky130_fd_pr__special_nfet_01v8
+No property sd found for device sky130_fd_pr__special_nfet_01v8
+No property nf found for device sky130_fd_pr__special_nfet_01v8
+No property nrd found for device sky130_fd_pr__special_nfet_01v8
+No property nrs found for device sky130_fd_pr__special_nfet_01v8
+No property area found for device sky130_fd_pr__special_nfet_01v8
+No property perim found for device sky130_fd_pr__special_nfet_01v8
+No property topography found for device sky130_fd_pr__special_nfet_01v8
+Model sky130_fd_pr__special_pfet_01v8_hvt pin 1 == 3
+No property as found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property ad found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property ps found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property pd found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property mult found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property sa found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property sb found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property sd found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property nf found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property nrd found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property nrs found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property area found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property perim found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property topography found for device sky130_fd_pr__special_pfet_01v8_hvt
+No property value found for device sky130_fd_pr__diode_pw2nd_05v5
+No property mult found for device sky130_fd_pr__diode_pw2nd_05v5
+Comparison output logged to file
+/Users/surya/Projects/RV32I/runs/glui-20260904-232539/70-netgen-lvs/reports/lvs.
+netgen.rpt
+Logging to file
+"/Users/surya/Projects/RV32I/runs/glui-20260904-232539/70-netgen-lvs/reports/lvs
+.netgen.rpt" enabled
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__fill_2'
+Circuit sky130_fd_sc_hd__fill_2 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__fill_2'
+Circuit sky130_fd_sc_hd__fill_2 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Circuit sky130_fd_sc_hd__fill_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__decap_3'
+Circuit sky130_fd_sc_hd__decap_3 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__decap_3'
+Circuit sky130_fd_sc_hd__decap_3 contains 2 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   1
+Circuit contains 4 nets.
+Circuit sky130_fd_sc_hd__decap_3 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__fill_1'
+Circuit sky130_fd_sc_hd__fill_1 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__fill_1'
+Circuit sky130_fd_sc_hd__fill_1 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Circuit sky130_fd_sc_hd__fill_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a22o_2'
+Circuit sky130_fd_sc_hd__a22o_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a22o_2'
+Circuit sky130_fd_sc_hd__a22o_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__a22o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o221a_2'
+Circuit sky130_fd_sc_hd__o221a_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o221a_2'
+Circuit sky130_fd_sc_hd__o221a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o221a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dfxtp_2'
+Circuit sky130_fd_sc_hd__dfxtp_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dfxtp_2'
+Circuit sky130_fd_sc_hd__dfxtp_2 contains 26 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   9
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  13
+  Class: sky130_fd_pr__special_nfet_01v8 instances:   4
+Circuit contains 18 nets.
+Circuit sky130_fd_sc_hd__dfxtp_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_2'
+Circuit sky130_fd_sc_hd__nor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_2'
+Circuit sky130_fd_sc_hd__nor2_2 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__nor2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3b_4'
+Circuit sky130_fd_sc_hd__or3b_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3b_4'
+Circuit sky130_fd_sc_hd__or3b_4 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__or3b_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21o_2'
+Circuit sky130_fd_sc_hd__a21o_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21o_2'
+Circuit sky130_fd_sc_hd__a21o_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__a21o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2_2'
+Circuit sky130_fd_sc_hd__and2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2_2'
+Circuit sky130_fd_sc_hd__and2_2 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__and2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__tapvpwrvgnd_1'
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains 0 device instances.
+Circuit contains 0 nets, and 2 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__tapvpwrvgnd_1'
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains 0 device instances.
+Circuit contains 0 nets, and 2 disconnected pins.
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux4_2'
+Circuit sky130_fd_sc_hd__mux4_2 contains 0 device instances.
+Circuit contains 0 nets, and 11 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux4_2'
+Circuit sky130_fd_sc_hd__mux4_2 contains 28 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  14
+  Class: sky130_fd_pr__special_nfet_01v8 instances:   4
+Circuit contains 24 nets.
+Circuit sky130_fd_sc_hd__mux4_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21oi_2'
+Circuit sky130_fd_sc_hd__a21oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21oi_2'
+Circuit sky130_fd_sc_hd__a21oi_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__a21oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21a_2'
+Circuit sky130_fd_sc_hd__o21a_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21a_2'
+Circuit sky130_fd_sc_hd__o21a_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__o21a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ai_2'
+Circuit sky130_fd_sc_hd__o21ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ai_2'
+Circuit sky130_fd_sc_hd__o21ai_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__o21ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkdlybuf4s25_1'
+Circuit sky130_fd_sc_hd__clkdlybuf4s25_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkdlybuf4s25_1'
+Circuit sky130_fd_sc_hd__clkdlybuf4s25_1 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__clkdlybuf4s25_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_2'
+Circuit sky130_fd_sc_hd__nand2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_2'
+Circuit sky130_fd_sc_hd__nand2_2 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__nand2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_2'
+Circuit sky130_fd_sc_hd__inv_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_2'
+Circuit sky130_fd_sc_hd__inv_2 contains 4 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+Circuit contains 6 nets.
+Circuit sky130_fd_sc_hd__inv_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a311o_2'
+Circuit sky130_fd_sc_hd__a311o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a311o_2'
+Circuit sky130_fd_sc_hd__a311o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a311o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31o_2'
+Circuit sky130_fd_sc_hd__a31o_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31o_2'
+Circuit sky130_fd_sc_hd__a31o_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__a31o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_1'
+Circuit sky130_fd_sc_hd__mux2_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_1'
+Circuit sky130_fd_sc_hd__mux2_1 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__mux2_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dlygate4sd3_1'
+Circuit sky130_fd_sc_hd__dlygate4sd3_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dlygate4sd3_1'
+Circuit sky130_fd_sc_hd__dlygate4sd3_1 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__dlygate4sd3_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2_2'
+Circuit sky130_fd_sc_hd__or2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2_2'
+Circuit sky130_fd_sc_hd__or2_2 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__or2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211o_4'
+Circuit sky130_fd_sc_hd__a211o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211o_4'
+Circuit sky130_fd_sc_hd__a211o_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a211o_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dlymetal6s4s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s4s_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dlymetal6s4s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s4s_1 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__dlymetal6s4s_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_2'
+Circuit sky130_fd_sc_hd__clkbuf_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_2'
+Circuit sky130_fd_sc_hd__clkbuf_2 contains 6 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   3
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   3
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__clkbuf_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_6'
+Circuit sky130_fd_sc_hd__buf_6 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_6'
+Circuit sky130_fd_sc_hd__buf_6 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_6 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dlymetal6s2s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dlymetal6s2s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_4'
+Circuit sky130_fd_sc_hd__clkbuf_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_4'
+Circuit sky130_fd_sc_hd__clkbuf_4 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__clkbuf_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o22a_2'
+Circuit sky130_fd_sc_hd__o22a_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o22a_2'
+Circuit sky130_fd_sc_hd__o22a_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__o22a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211a_2'
+Circuit sky130_fd_sc_hd__o211a_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211a_2'
+Circuit sky130_fd_sc_hd__o211a_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__o211a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2_4'
+Circuit sky130_fd_sc_hd__or2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2_4'
+Circuit sky130_fd_sc_hd__or2_4 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__or2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221o_2'
+Circuit sky130_fd_sc_hd__a221o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221o_2'
+Circuit sky130_fd_sc_hd__a221o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a221o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2_4'
+Circuit sky130_fd_sc_hd__and2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2_4'
+Circuit sky130_fd_sc_hd__and2_4 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__and2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2b_2'
+Circuit sky130_fd_sc_hd__nand2b_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2b_2'
+Circuit sky130_fd_sc_hd__nand2b_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__nand2b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_4'
+Circuit sky130_fd_sc_hd__buf_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_4'
+Circuit sky130_fd_sc_hd__buf_4 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_4'
+Circuit sky130_fd_sc_hd__mux2_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_4'
+Circuit sky130_fd_sc_hd__mux2_4 contains 18 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   9
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   9
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__mux2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3b_2'
+Circuit sky130_fd_sc_hd__and3b_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3b_2'
+Circuit sky130_fd_sc_hd__and3b_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__and3b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a32o_2'
+Circuit sky130_fd_sc_hd__a32o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a32o_2'
+Circuit sky130_fd_sc_hd__a32o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a32o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211o_2'
+Circuit sky130_fd_sc_hd__a211o_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211o_2'
+Circuit sky130_fd_sc_hd__a211o_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__a211o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3_4'
+Circuit sky130_fd_sc_hd__and3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3_4'
+Circuit sky130_fd_sc_hd__and3_4 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__and3_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__diode_2'
+Circuit sky130_fd_sc_hd__diode_2 contains 0 device instances.
+Circuit contains 0 nets, and 5 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__diode_2'
+Circuit sky130_fd_sc_hd__diode_2 contains 1 device instances.
+  Class: sky130_fd_pr__diode_pw2nd_05v5 instances:   1
+Circuit contains 2 nets, and 3 disconnected pins.
+Circuit sky130_fd_sc_hd__diode_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_2'
+Circuit sky130_fd_sc_hd__buf_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_2'
+Circuit sky130_fd_sc_hd__buf_2 contains 6 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   3
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   3
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31a_2'
+Circuit sky130_fd_sc_hd__o31a_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31a_2'
+Circuit sky130_fd_sc_hd__o31a_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__o31a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3_2'
+Circuit sky130_fd_sc_hd__and3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3_2'
+Circuit sky130_fd_sc_hd__and3_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__and3_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_8'
+Circuit sky130_fd_sc_hd__clkbuf_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_8'
+Circuit sky130_fd_sc_hd__clkbuf_8 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__clkbuf_8 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_4'
+Circuit sky130_fd_sc_hd__nor2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_4'
+Circuit sky130_fd_sc_hd__nor2_4 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__nor2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o2111a_2'
+Circuit sky130_fd_sc_hd__o2111a_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o2111a_2'
+Circuit sky130_fd_sc_hd__o2111a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o2111a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o311a_4'
+Circuit sky130_fd_sc_hd__o311a_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o311a_4'
+Circuit sky130_fd_sc_hd__o311a_4 contains 28 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  14
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  14
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o311a_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xnor2_2'
+Circuit sky130_fd_sc_hd__xnor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xnor2_2'
+Circuit sky130_fd_sc_hd__xnor2_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__xnor2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4b_2'
+Circuit sky130_fd_sc_hd__or4b_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4b_2'
+Circuit sky130_fd_sc_hd__or4b_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__or4b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand3_2'
+Circuit sky130_fd_sc_hd__nand3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand3_2'
+Circuit sky130_fd_sc_hd__nand3_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__nand3_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3_2'
+Circuit sky130_fd_sc_hd__nor3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3_2'
+Circuit sky130_fd_sc_hd__nor3_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__nor3_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21bo_2'
+Circuit sky130_fd_sc_hd__a21bo_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21bo_2'
+Circuit sky130_fd_sc_hd__a21bo_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a21bo_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a2bb2o_2'
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a2bb2o_2'
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_8'
+Circuit sky130_fd_sc_hd__buf_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_8'
+Circuit sky130_fd_sc_hd__buf_8 contains 22 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  11
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  11
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_8 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o2bb2a_2'
+Circuit sky130_fd_sc_hd__o2bb2a_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o2bb2a_2'
+Circuit sky130_fd_sc_hd__o2bb2a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__o2bb2a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31ai_2'
+Circuit sky130_fd_sc_hd__o31ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31ai_2'
+Circuit sky130_fd_sc_hd__o31ai_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o31ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand3b_2'
+Circuit sky130_fd_sc_hd__nand3b_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand3b_2'
+Circuit sky130_fd_sc_hd__nand3b_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__nand3b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4_2'
+Circuit sky130_fd_sc_hd__or4_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4_2'
+Circuit sky130_fd_sc_hd__or4_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__or4_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and4_2'
+Circuit sky130_fd_sc_hd__and4_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and4_2'
+Circuit sky130_fd_sc_hd__and4_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__and4_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21bo_4'
+Circuit sky130_fd_sc_hd__a21bo_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21bo_4'
+Circuit sky130_fd_sc_hd__a21bo_4 contains 22 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  11
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  11
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__a21bo_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xor2_2'
+Circuit sky130_fd_sc_hd__xor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xor2_2'
+Circuit sky130_fd_sc_hd__xor2_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__xor2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xnor2_4'
+Circuit sky130_fd_sc_hd__xnor2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xnor2_4'
+Circuit sky130_fd_sc_hd__xnor2_4 contains 40 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  20
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  20
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__xnor2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2b_2'
+Circuit sky130_fd_sc_hd__and2b_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2b_2'
+Circuit sky130_fd_sc_hd__and2b_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__and2b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21bai_4'
+Circuit sky130_fd_sc_hd__o21bai_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21bai_4'
+Circuit sky130_fd_sc_hd__o21bai_4 contains 26 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  13
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  13
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__o21bai_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__bufinv_16'
+Circuit sky130_fd_sc_hd__bufinv_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__bufinv_16'
+Circuit sky130_fd_sc_hd__bufinv_16 contains 50 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  25
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  25
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__bufinv_16 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dlygate4sd1_1'
+Circuit sky130_fd_sc_hd__dlygate4sd1_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dlygate4sd1_1'
+Circuit sky130_fd_sc_hd__dlygate4sd1_1 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__dlygate4sd1_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_2'
+Circuit sky130_fd_sc_hd__mux2_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_2'
+Circuit sky130_fd_sc_hd__mux2_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__mux2_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2b_4'
+Circuit sky130_fd_sc_hd__nand2b_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2b_4'
+Circuit sky130_fd_sc_hd__nand2b_4 contains 18 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   9
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   9
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__nand2b_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o311a_2'
+Circuit sky130_fd_sc_hd__o311a_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o311a_2'
+Circuit sky130_fd_sc_hd__o311a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o311a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkinv_2'
+Circuit sky130_fd_sc_hd__clkinv_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkinv_2'
+Circuit sky130_fd_sc_hd__clkinv_2 contains 5 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   3
+Circuit contains 6 nets.
+Circuit sky130_fd_sc_hd__clkinv_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211oi_2'
+Circuit sky130_fd_sc_hd__a211oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211oi_2'
+Circuit sky130_fd_sc_hd__a211oi_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a211oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4_4'
+Circuit sky130_fd_sc_hd__or4_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4_4'
+Circuit sky130_fd_sc_hd__or4_4 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__or4_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3_2'
+Circuit sky130_fd_sc_hd__or3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3_2'
+Circuit sky130_fd_sc_hd__or3_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__or3_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21oi_4'
+Circuit sky130_fd_sc_hd__a21oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21oi_4'
+Circuit sky130_fd_sc_hd__a21oi_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__a21oi_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o41a_2'
+Circuit sky130_fd_sc_hd__o41a_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o41a_2'
+Circuit sky130_fd_sc_hd__o41a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o41a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_8'
+Circuit sky130_fd_sc_hd__inv_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_8'
+Circuit sky130_fd_sc_hd__inv_8 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 6 nets.
+Circuit sky130_fd_sc_hd__inv_8 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31o_4'
+Circuit sky130_fd_sc_hd__a31o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31o_4'
+Circuit sky130_fd_sc_hd__a31o_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a31o_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ba_2'
+Circuit sky130_fd_sc_hd__o21ba_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ba_2'
+Circuit sky130_fd_sc_hd__o21ba_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o21ba_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ai_4'
+Circuit sky130_fd_sc_hd__o21ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ai_4'
+Circuit sky130_fd_sc_hd__o21ai_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__o21ai_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkdlybuf4s15_2'
+Circuit sky130_fd_sc_hd__clkdlybuf4s15_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkdlybuf4s15_2'
+Circuit sky130_fd_sc_hd__clkdlybuf4s15_2 contains 10 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   5
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+Circuit contains 9 nets.
+Circuit sky130_fd_sc_hd__clkdlybuf4s15_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21a_4'
+Circuit sky130_fd_sc_hd__o21a_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21a_4'
+Circuit sky130_fd_sc_hd__o21a_4 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o21a_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor4b_4'
+Circuit sky130_fd_sc_hd__nor4b_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor4b_4'
+Circuit sky130_fd_sc_hd__nor4b_4 contains 34 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  17
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  17
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__nor4b_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o41a_4'
+Circuit sky130_fd_sc_hd__o41a_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o41a_4'
+Circuit sky130_fd_sc_hd__o41a_4 contains 28 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  14
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  14
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o41a_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221oi_2'
+Circuit sky130_fd_sc_hd__a221oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221oi_2'
+Circuit sky130_fd_sc_hd__a221oi_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a221oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o221ai_2'
+Circuit sky130_fd_sc_hd__o221ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o221ai_2'
+Circuit sky130_fd_sc_hd__o221ai_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__o221ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and4bb_2'
+Circuit sky130_fd_sc_hd__and4bb_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and4bb_2'
+Circuit sky130_fd_sc_hd__and4bb_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__and4bb_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3_4'
+Circuit sky130_fd_sc_hd__or3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3_4'
+Circuit sky130_fd_sc_hd__or3_4 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__or3_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3b_2'
+Circuit sky130_fd_sc_hd__nor3b_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3b_2'
+Circuit sky130_fd_sc_hd__nor3b_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__nor3b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3b_2'
+Circuit sky130_fd_sc_hd__or3b_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3b_2'
+Circuit sky130_fd_sc_hd__or3b_2 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   6
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   6
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__or3b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a311oi_2'
+Circuit sky130_fd_sc_hd__a311oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a311oi_2'
+Circuit sky130_fd_sc_hd__a311oi_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a311oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211a_4'
+Circuit sky130_fd_sc_hd__o211a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211a_4'
+Circuit sky130_fd_sc_hd__o211a_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o211a_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21o_4'
+Circuit sky130_fd_sc_hd__a21o_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21o_4'
+Circuit sky130_fd_sc_hd__a21o_4 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a21o_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__conb_1'
+Circuit sky130_fd_sc_hd__conb_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__conb_1'
+Circuit sky130_fd_sc_hd__conb_1 contains 2 device instances.
+  Class: sky130_fd_pr__res_generic_po instances:   2
+Circuit contains 4 nets, and 2 disconnected pins.
+Circuit sky130_fd_sc_hd__conb_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31oi_2'
+Circuit sky130_fd_sc_hd__a31oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31oi_2'
+Circuit sky130_fd_sc_hd__a31oi_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a31oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_16'
+Circuit sky130_fd_sc_hd__clkbuf_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_16'
+Circuit sky130_fd_sc_hd__clkbuf_16 contains 40 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  20
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  20
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__clkbuf_16 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31a_4'
+Circuit sky130_fd_sc_hd__o31a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31a_4'
+Circuit sky130_fd_sc_hd__o31a_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 13 nets.
+Circuit sky130_fd_sc_hd__o31a_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_4'
+Circuit sky130_fd_sc_hd__nand2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_4'
+Circuit sky130_fd_sc_hd__nand2_4 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__nand2_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_1'
+Circuit sky130_fd_sc_hd__buf_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_1'
+Circuit sky130_fd_sc_hd__buf_1 contains 4 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a2111o_2'
+Circuit sky130_fd_sc_hd__a2111o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a2111o_2'
+Circuit sky130_fd_sc_hd__a2111o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a2111o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a41o_2'
+Circuit sky130_fd_sc_hd__a41o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a41o_2'
+Circuit sky130_fd_sc_hd__a41o_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__a41o_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211ai_2'
+Circuit sky130_fd_sc_hd__o211ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211ai_2'
+Circuit sky130_fd_sc_hd__o211ai_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o211ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a22oi_2'
+Circuit sky130_fd_sc_hd__a22oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a22oi_2'
+Circuit sky130_fd_sc_hd__a22oi_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a22oi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21bai_2'
+Circuit sky130_fd_sc_hd__o21bai_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21bai_2'
+Circuit sky130_fd_sc_hd__o21bai_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 11 nets.
+Circuit sky130_fd_sc_hd__o21bai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4b_4'
+Circuit sky130_fd_sc_hd__or4b_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4b_4'
+Circuit sky130_fd_sc_hd__or4b_4 contains 18 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   9
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   9
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__or4b_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o32a_2'
+Circuit sky130_fd_sc_hd__o32a_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o32a_2'
+Circuit sky130_fd_sc_hd__o32a_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 15 nets.
+Circuit sky130_fd_sc_hd__o32a_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_12'
+Circuit sky130_fd_sc_hd__buf_12 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_12'
+Circuit sky130_fd_sc_hd__buf_12 contains 32 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  16
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  16
+Circuit contains 7 nets.
+Circuit sky130_fd_sc_hd__buf_12 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and4b_2'
+Circuit sky130_fd_sc_hd__and4b_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and4b_2'
+Circuit sky130_fd_sc_hd__and4b_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__and4b_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o2111ai_2'
+Circuit sky130_fd_sc_hd__o2111ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o2111ai_2'
+Circuit sky130_fd_sc_hd__o2111ai_2 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  10
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__o2111ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211ai_4'
+Circuit sky130_fd_sc_hd__o211ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211ai_4'
+Circuit sky130_fd_sc_hd__o211ai_4 contains 32 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  16
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  16
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__o211ai_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a2bb2o_4'
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a2bb2o_4'
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains 28 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  14
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  14
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand4_2'
+Circuit sky130_fd_sc_hd__nand4_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand4_2'
+Circuit sky130_fd_sc_hd__nand4_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__nand4_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211oi_4'
+Circuit sky130_fd_sc_hd__a211oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211oi_4'
+Circuit sky130_fd_sc_hd__a211oi_4 contains 32 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  16
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  16
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a211oi_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21boi_2'
+Circuit sky130_fd_sc_hd__a21boi_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21boi_2'
+Circuit sky130_fd_sc_hd__a21boi_2 contains 14 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   7
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   7
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a21boi_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31ai_4'
+Circuit sky130_fd_sc_hd__o31ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31ai_4'
+Circuit sky130_fd_sc_hd__o31ai_4 contains 32 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  16
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  16
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o31ai_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o22ai_2'
+Circuit sky130_fd_sc_hd__o22ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o22ai_2'
+Circuit sky130_fd_sc_hd__o22ai_2 contains 16 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   8
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   8
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__o22ai_2 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_1'
+Circuit sky130_fd_sc_hd__nor2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_1'
+Circuit sky130_fd_sc_hd__nor2_1 contains 4 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+Circuit contains 8 nets.
+Circuit sky130_fd_sc_hd__nor2_1 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o32ai_4'
+Circuit sky130_fd_sc_hd__o32ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o32ai_4'
+Circuit sky130_fd_sc_hd__o32ai_4 contains 40 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  20
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  20
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__o32ai_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_4'
+Circuit sky130_fd_sc_hd__inv_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_4'
+Circuit sky130_fd_sc_hd__inv_4 contains 8 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   4
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   4
+Circuit contains 6 nets.
+Circuit sky130_fd_sc_hd__inv_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31oi_4'
+Circuit sky130_fd_sc_hd__a31oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31oi_4'
+Circuit sky130_fd_sc_hd__a31oi_4 contains 32 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  16
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  16
+Circuit contains 12 nets.
+Circuit sky130_fd_sc_hd__a31oi_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand3_4'
+Circuit sky130_fd_sc_hd__nand3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand3_4'
+Circuit sky130_fd_sc_hd__nand3_4 contains 24 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  12
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  12
+Circuit contains 10 nets.
+Circuit sky130_fd_sc_hd__nand3_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221oi_4'
+Circuit sky130_fd_sc_hd__a221oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221oi_4'
+Circuit sky130_fd_sc_hd__a221oi_4 contains 40 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  20
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  20
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a221oi_4 contains no devices.
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a32oi_4'
+Circuit sky130_fd_sc_hd__a32oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a32oi_4'
+Circuit sky130_fd_sc_hd__a32oi_4 contains 40 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:  20
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  20
+Circuit contains 14 nets.
+Circuit sky130_fd_sc_hd__a32oi_4 contains no devices.
+Contents of circuit 1:  Circuit: 'rv32i_core'
+Circuit rv32i_core contains 39907 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   3
+  Class: sky130_fd_sc_hd__o2111ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a41o_2 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances: 721
+  Class: sky130_fd_sc_hd__a31o_2 instances:  49
+  Class: sky130_fd_sc_hd__a31o_4 instances:  10
+  Class: sky130_fd_sc_hd__a21o_2 instances: 158
+  Class: sky130_fd_sc_hd__a21o_4 instances:   9
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 1154
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   1
+  Class: sky130_fd_sc_hd__or4_2 instances:  11
+  Class: sky130_fd_sc_hd__or4_4 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   3
+  Class: sky130_fd_sc_hd__buf_1 instances:   1
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   1
+  Class: sky130_fd_sc_hd__nand4_2 instances:   1
+  Class: sky130_fd_sc_hd__buf_2 instances: 164
+  Class: sky130_fd_sc_hd__buf_4 instances: 223
+  Class: sky130_fd_sc_hd__buf_6 instances: 111
+  Class: sky130_fd_sc_hd__buf_8 instances:  30
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:  36
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:   2
+  Class: sky130_fd_sc_hd__and3b_2 instances:   9
+  Class: sky130_fd_sc_hd__xor2_2 instances:  25
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   5
+  Class: sky130_fd_sc_hd__mux4_2 instances: 292
+  Class: sky130_fd_sc_hd__and4_2 instances:   6
+  Class: sky130_fd_sc_hd__inv_2 instances:  77
+  Class: sky130_fd_sc_hd__inv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s15_2 instances:  13
+  Class: sky130_fd_sc_hd__inv_8 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  98
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 146
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 184
+  Class: sky130_fd_sc_hd__or3_2 instances:  20
+  Class: sky130_fd_sc_hd__or3_4 instances:  10
+  Class: sky130_fd_sc_hd__nand3_2 instances:   9
+  Class: sky130_fd_sc_hd__nand3_4 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__conb_1 instances:   1
+  Class: sky130_fd_sc_hd__and2b_2 instances:  24
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:   3
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   9
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_2 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  17
+  Class: sky130_fd_sc_hd__and3_2 instances:  48
+  Class: sky130_fd_sc_hd__and3_4 instances:   6
+  Class: sky130_fd_sc_hd__dlymetal6s4s_1 instances:  43
+  Class: sky130_fd_sc_hd__a2111o_2 instances:   3
+  Class: sky130_fd_sc_hd__decap_3 instances: 23436
+  Class: sky130_fd_sc_hd__dlygate4sd3_1 instances: 1032
+  Class: sky130_fd_sc_hd__or2_2 instances: 201
+  Class: sky130_fd_sc_hd__or2_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2_2 instances: 157
+  Class: sky130_fd_sc_hd__nand2_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   1
+  Class: sky130_fd_sc_hd__mux2_1 instances: 612
+  Class: sky130_fd_sc_hd__mux2_2 instances:  26
+  Class: sky130_fd_sc_hd__mux2_4 instances:  21
+  Class: sky130_fd_sc_hd__a211oi_2 instances:   6
+  Class: sky130_fd_sc_hd__and2_2 instances: 241
+  Class: sky130_fd_sc_hd__a211oi_4 instances:   2
+  Class: sky130_fd_sc_hd__and2_4 instances:  11
+  Class: sky130_fd_sc_hd__or4b_2 instances:   6
+  Class: sky130_fd_sc_hd__or4b_4 instances:   3
+  Class: sky130_fd_sc_hd__o32a_2 instances:   2
+  Class: sky130_fd_sc_hd__o22a_2 instances: 111
+  Class: sky130_fd_sc_hd__xnor2_2 instances:  41
+  Class: sky130_fd_sc_hd__xnor2_4 instances:   5
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   3
+  Class: sky130_fd_sc_hd__o221a_2 instances:  46
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   5
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   4
+  Class: sky130_fd_sc_hd__o211a_2 instances: 114
+  Class: sky130_fd_sc_hd__o211a_4 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:  20
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   3
+  Class: sky130_fd_sc_hd__diode_2 instances:  65
+  Class: sky130_fd_sc_hd__a311oi_2 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:  39
+  Class: sky130_fd_sc_hd__a211o_2 instances:  69
+  Class: sky130_fd_sc_hd__a211o_4 instances:   6
+  Class: sky130_fd_sc_hd__o2111a_2 instances:   4
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:   7
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  50
+  Class: sky130_fd_sc_hd__nor3_2 instances:   5
+  Class: sky130_fd_sc_hd__a32o_2 instances:  25
+  Class: sky130_fd_sc_hd__o41a_2 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd1_1 instances:   4
+  Class: sky130_fd_sc_hd__a22o_2 instances: 1177
+  Class: sky130_fd_sc_hd__o31a_2 instances:  15
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:  12
+  Class: sky130_fd_sc_hd__o21a_2 instances: 100
+  Class: sky130_fd_sc_hd__o21a_4 instances:  12
+  Class: sky130_fd_sc_hd__o311a_2 instances:   7
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_2 instances:   1
+  Class: sky130_fd_sc_hd__and4b_2 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  92
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 2822
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  16
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  96
+  Class: sky130_fd_sc_hd__a21oi_4 instances:   5
+  Class: sky130_fd_sc_hd__a311o_2 instances:  13
+  Class: sky130_fd_sc_hd__fill_1 instances: 2763
+  Class: sky130_fd_sc_hd__fill_2 instances: 2372
+  Class: sky130_fd_sc_hd__o211ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__and4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor2_1 instances:   1
+  Class: sky130_fd_sc_hd__nor2_2 instances: 199
+  Class: sky130_fd_sc_hd__nor2_4 instances:  12
+Circuit contains 8518 nets, and 2 disconnected pins.
+Contents of circuit 2:  Circuit: 'rv32i_core'
+Circuit rv32i_core contains 39907 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   3
+  Class: sky130_fd_sc_hd__o2111ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a41o_2 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances: 721
+  Class: sky130_fd_sc_hd__a31o_2 instances:  49
+  Class: sky130_fd_sc_hd__a31o_4 instances:  10
+  Class: sky130_fd_sc_hd__a21o_2 instances: 158
+  Class: sky130_fd_sc_hd__a21o_4 instances:   9
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 1154
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   1
+  Class: sky130_fd_sc_hd__or4_2 instances:  11
+  Class: sky130_fd_sc_hd__or4_4 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   3
+  Class: sky130_fd_sc_hd__buf_1 instances:   1
+  Class: sky130_fd_sc_hd__nand4_2 instances:   1
+  Class: sky130_fd_sc_hd__buf_2 instances: 164
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   1
+  Class: sky130_fd_sc_hd__buf_4 instances: 223
+  Class: sky130_fd_sc_hd__buf_6 instances: 111
+  Class: sky130_fd_sc_hd__buf_8 instances:  30
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:  36
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:   2
+  Class: sky130_fd_sc_hd__and3b_2 instances:   9
+  Class: sky130_fd_sc_hd__xor2_2 instances:  25
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   5
+  Class: sky130_fd_sc_hd__mux4_2 instances: 292
+  Class: sky130_fd_sc_hd__and4_2 instances:   6
+  Class: sky130_fd_sc_hd__inv_2 instances:  77
+  Class: sky130_fd_sc_hd__inv_4 instances:   2
+  Class: sky130_fd_sc_hd__inv_8 instances:   1
+  Class: sky130_fd_sc_hd__clkdlybuf4s15_2 instances:  13
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  98
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 146
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 184
+  Class: sky130_fd_sc_hd__or3_2 instances:  20
+  Class: sky130_fd_sc_hd__or3_4 instances:  10
+  Class: sky130_fd_sc_hd__nand3_2 instances:   9
+  Class: sky130_fd_sc_hd__nand3_4 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__conb_1 instances:   1
+  Class: sky130_fd_sc_hd__and2b_2 instances:  24
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:   3
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   9
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_2 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  17
+  Class: sky130_fd_sc_hd__and3_2 instances:  48
+  Class: sky130_fd_sc_hd__and3_4 instances:   6
+  Class: sky130_fd_sc_hd__dlymetal6s4s_1 instances:  43
+  Class: sky130_fd_sc_hd__a2111o_2 instances:   3
+  Class: sky130_fd_sc_hd__decap_3 instances: 23436
+  Class: sky130_fd_sc_hd__dlygate4sd3_1 instances: 1032
+  Class: sky130_fd_sc_hd__or2_2 instances: 201
+  Class: sky130_fd_sc_hd__or2_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2_2 instances: 157
+  Class: sky130_fd_sc_hd__nand2_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   1
+  Class: sky130_fd_sc_hd__mux2_1 instances: 612
+  Class: sky130_fd_sc_hd__mux2_2 instances:  26
+  Class: sky130_fd_sc_hd__mux2_4 instances:  21
+  Class: sky130_fd_sc_hd__and2_2 instances: 241
+  Class: sky130_fd_sc_hd__a211oi_2 instances:   6
+  Class: sky130_fd_sc_hd__and2_4 instances:  11
+  Class: sky130_fd_sc_hd__a211oi_4 instances:   2
+  Class: sky130_fd_sc_hd__or4b_2 instances:   6
+  Class: sky130_fd_sc_hd__or4b_4 instances:   3
+  Class: sky130_fd_sc_hd__o32a_2 instances:   2
+  Class: sky130_fd_sc_hd__o22a_2 instances: 111
+  Class: sky130_fd_sc_hd__xnor2_2 instances:  41
+  Class: sky130_fd_sc_hd__xnor2_4 instances:   5
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   3
+  Class: sky130_fd_sc_hd__o221a_2 instances:  46
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   5
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   4
+  Class: sky130_fd_sc_hd__o211a_2 instances: 114
+  Class: sky130_fd_sc_hd__o211a_4 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:  20
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   3
+  Class: sky130_fd_sc_hd__diode_2 instances:  65
+  Class: sky130_fd_sc_hd__a311oi_2 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:  39
+  Class: sky130_fd_sc_hd__a211o_2 instances:  69
+  Class: sky130_fd_sc_hd__a211o_4 instances:   6
+  Class: sky130_fd_sc_hd__o2111a_2 instances:   4
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:   7
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  50
+  Class: sky130_fd_sc_hd__nor3_2 instances:   5
+  Class: sky130_fd_sc_hd__a32o_2 instances:  25
+  Class: sky130_fd_sc_hd__o41a_2 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd1_1 instances:   4
+  Class: sky130_fd_sc_hd__a22o_2 instances: 1177
+  Class: sky130_fd_sc_hd__o31a_2 instances:  15
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:  12
+  Class: sky130_fd_sc_hd__o21a_2 instances: 100
+  Class: sky130_fd_sc_hd__o21a_4 instances:  12
+  Class: sky130_fd_sc_hd__o311a_2 instances:   7
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_2 instances:   1
+  Class: sky130_fd_sc_hd__and4b_2 instances:   2
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 2822
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  92
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  16
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  96
+  Class: sky130_fd_sc_hd__a21oi_4 instances:   5
+  Class: sky130_fd_sc_hd__a311o_2 instances:  13
+  Class: sky130_fd_sc_hd__fill_1 instances: 2763
+  Class: sky130_fd_sc_hd__fill_2 instances: 2372
+  Class: sky130_fd_sc_hd__o211ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__and4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor2_1 instances:   1
+  Class: sky130_fd_sc_hd__nor2_2 instances: 199
+  Class: sky130_fd_sc_hd__nor2_4 instances:  12
+Circuit contains 8518 nets, and 2 disconnected pins.
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+Contents of circuit 1:  Circuit: 'rv32i_core'
+Circuit rv32i_core contains 8494 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   3
+  Class: sky130_fd_sc_hd__o2111ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a41o_2 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances: 721
+  Class: sky130_fd_sc_hd__a31o_2 instances:  49
+  Class: sky130_fd_sc_hd__a31o_4 instances:  10
+  Class: sky130_fd_sc_hd__a21o_2 instances: 158
+  Class: sky130_fd_sc_hd__a21o_4 instances:   9
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 1154
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   1
+  Class: sky130_fd_sc_hd__or4_2 instances:  11
+  Class: sky130_fd_sc_hd__or4_4 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   3
+  Class: sky130_fd_sc_hd__buf_1 instances:   1
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   1
+  Class: sky130_fd_sc_hd__nand4_2 instances:   1
+  Class: sky130_fd_sc_hd__buf_2 instances: 164
+  Class: sky130_fd_sc_hd__buf_4 instances: 223
+  Class: sky130_fd_sc_hd__buf_6 instances: 111
+  Class: sky130_fd_sc_hd__buf_8 instances:  30
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:  36
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:   2
+  Class: sky130_fd_sc_hd__and3b_2 instances:   9
+  Class: sky130_fd_sc_hd__xor2_2 instances:  25
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   5
+  Class: sky130_fd_sc_hd__mux4_2 instances: 292
+  Class: sky130_fd_sc_hd__and4_2 instances:   6
+  Class: sky130_fd_sc_hd__inv_2 instances:  77
+  Class: sky130_fd_sc_hd__inv_4 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s15_2 instances:  13
+  Class: sky130_fd_sc_hd__inv_8 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  98
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 146
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 184
+  Class: sky130_fd_sc_hd__or3_2 instances:  20
+  Class: sky130_fd_sc_hd__or3_4 instances:  10
+  Class: sky130_fd_sc_hd__nand3_2 instances:   9
+  Class: sky130_fd_sc_hd__nand3_4 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__conb_1 instances:   1
+  Class: sky130_fd_sc_hd__and2b_2 instances:  24
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:   3
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   9
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_2 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  17
+  Class: sky130_fd_sc_hd__and3_2 instances:  48
+  Class: sky130_fd_sc_hd__and3_4 instances:   6
+  Class: sky130_fd_sc_hd__dlymetal6s4s_1 instances:  43
+  Class: sky130_fd_sc_hd__a2111o_2 instances:   3
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd3_1 instances: 1032
+  Class: sky130_fd_sc_hd__or2_2 instances: 201
+  Class: sky130_fd_sc_hd__or2_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2_2 instances: 157
+  Class: sky130_fd_sc_hd__nand2_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   1
+  Class: sky130_fd_sc_hd__mux2_1 instances: 612
+  Class: sky130_fd_sc_hd__mux2_2 instances:  26
+  Class: sky130_fd_sc_hd__mux2_4 instances:  21
+  Class: sky130_fd_sc_hd__a211oi_2 instances:   6
+  Class: sky130_fd_sc_hd__and2_2 instances: 241
+  Class: sky130_fd_sc_hd__a211oi_4 instances:   2
+  Class: sky130_fd_sc_hd__and2_4 instances:  11
+  Class: sky130_fd_sc_hd__or4b_2 instances:   6
+  Class: sky130_fd_sc_hd__or4b_4 instances:   3
+  Class: sky130_fd_sc_hd__o32a_2 instances:   2
+  Class: sky130_fd_sc_hd__o22a_2 instances: 111
+  Class: sky130_fd_sc_hd__xnor2_2 instances:  41
+  Class: sky130_fd_sc_hd__xnor2_4 instances:   5
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   3
+  Class: sky130_fd_sc_hd__o221a_2 instances:  46
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   5
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   4
+  Class: sky130_fd_sc_hd__o211a_2 instances: 114
+  Class: sky130_fd_sc_hd__o211a_4 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:  20
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   3
+  Class: sky130_fd_sc_hd__diode_2 instances:  41
+  Class: sky130_fd_sc_hd__a311oi_2 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:  39
+  Class: sky130_fd_sc_hd__a211o_2 instances:  69
+  Class: sky130_fd_sc_hd__a211o_4 instances:   6
+  Class: sky130_fd_sc_hd__o2111a_2 instances:   4
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:   7
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  50
+  Class: sky130_fd_sc_hd__nor3_2 instances:   5
+  Class: sky130_fd_sc_hd__a32o_2 instances:  25
+  Class: sky130_fd_sc_hd__o41a_2 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd1_1 instances:   4
+  Class: sky130_fd_sc_hd__a22o_2 instances: 1177
+  Class: sky130_fd_sc_hd__o31a_2 instances:  15
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:  12
+  Class: sky130_fd_sc_hd__o21a_2 instances: 100
+  Class: sky130_fd_sc_hd__o21a_4 instances:  12
+  Class: sky130_fd_sc_hd__o311a_2 instances:   7
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_2 instances:   1
+  Class: sky130_fd_sc_hd__and4b_2 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  92
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  16
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  96
+  Class: sky130_fd_sc_hd__a21oi_4 instances:   5
+  Class: sky130_fd_sc_hd__a311o_2 instances:  13
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__and4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor2_1 instances:   1
+  Class: sky130_fd_sc_hd__nor2_2 instances: 199
+  Class: sky130_fd_sc_hd__nor2_4 instances:  12
+Circuit contains 8518 nets, and 2 disconnected pins.
+Contents of circuit 2:  Circuit: 'rv32i_core'
+Circuit rv32i_core contains 8494 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   3
+  Class: sky130_fd_sc_hd__o2111ai_2 instances:   2
+  Class: sky130_fd_sc_hd__a41o_2 instances:   2
+  Class: sky130_fd_sc_hd__clkdlybuf4s25_1 instances: 721
+  Class: sky130_fd_sc_hd__a31o_2 instances:  49
+  Class: sky130_fd_sc_hd__a31o_4 instances:  10
+  Class: sky130_fd_sc_hd__a21o_2 instances: 158
+  Class: sky130_fd_sc_hd__a21o_4 instances:   9
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:   1
+  Class: sky130_fd_sc_hd__dfxtp_2 instances: 1154
+  Class: sky130_fd_sc_hd__a32oi_4 instances:   1
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   4
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   1
+  Class: sky130_fd_sc_hd__or4_2 instances:  11
+  Class: sky130_fd_sc_hd__or4_4 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_2 instances:   3
+  Class: sky130_fd_sc_hd__buf_1 instances:   1
+  Class: sky130_fd_sc_hd__nand4_2 instances:   1
+  Class: sky130_fd_sc_hd__buf_2 instances: 164
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   1
+  Class: sky130_fd_sc_hd__buf_4 instances: 223
+  Class: sky130_fd_sc_hd__buf_6 instances: 111
+  Class: sky130_fd_sc_hd__buf_8 instances:  30
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:  36
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:   2
+  Class: sky130_fd_sc_hd__and3b_2 instances:   9
+  Class: sky130_fd_sc_hd__xor2_2 instances:  25
+  Class: sky130_fd_sc_hd__o221ai_2 instances:   5
+  Class: sky130_fd_sc_hd__mux4_2 instances: 292
+  Class: sky130_fd_sc_hd__and4_2 instances:   6
+  Class: sky130_fd_sc_hd__inv_2 instances:  77
+  Class: sky130_fd_sc_hd__inv_4 instances:   2
+  Class: sky130_fd_sc_hd__inv_8 instances:   1
+  Class: sky130_fd_sc_hd__clkdlybuf4s15_2 instances:  13
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  98
+  Class: sky130_fd_sc_hd__clkbuf_4 instances: 146
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 184
+  Class: sky130_fd_sc_hd__or3_2 instances:  20
+  Class: sky130_fd_sc_hd__or3_4 instances:  10
+  Class: sky130_fd_sc_hd__nand3_2 instances:   9
+  Class: sky130_fd_sc_hd__nand3_4 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_2 instances:  10
+  Class: sky130_fd_sc_hd__conb_1 instances:   1
+  Class: sky130_fd_sc_hd__and2b_2 instances:  24
+  Class: sky130_fd_sc_hd__a21boi_2 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances:   3
+  Class: sky130_fd_sc_hd__a21bo_2 instances:   9
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_2 instances:   2
+  Class: sky130_fd_sc_hd__a221oi_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_2 instances:  17
+  Class: sky130_fd_sc_hd__and3_2 instances:  48
+  Class: sky130_fd_sc_hd__and3_4 instances:   6
+  Class: sky130_fd_sc_hd__dlymetal6s4s_1 instances:  43
+  Class: sky130_fd_sc_hd__a2111o_2 instances:   3
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd3_1 instances: 1032
+  Class: sky130_fd_sc_hd__or2_2 instances: 201
+  Class: sky130_fd_sc_hd__or2_4 instances:   6
+  Class: sky130_fd_sc_hd__nand2_2 instances: 157
+  Class: sky130_fd_sc_hd__nand2_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4b_4 instances:   1
+  Class: sky130_fd_sc_hd__nand3b_2 instances:   1
+  Class: sky130_fd_sc_hd__mux2_1 instances: 612
+  Class: sky130_fd_sc_hd__mux2_2 instances:  26
+  Class: sky130_fd_sc_hd__mux2_4 instances:  21
+  Class: sky130_fd_sc_hd__and2_2 instances: 241
+  Class: sky130_fd_sc_hd__a211oi_2 instances:   6
+  Class: sky130_fd_sc_hd__and2_4 instances:  11
+  Class: sky130_fd_sc_hd__a211oi_4 instances:   2
+  Class: sky130_fd_sc_hd__or4b_2 instances:   6
+  Class: sky130_fd_sc_hd__or4b_4 instances:   3
+  Class: sky130_fd_sc_hd__o32a_2 instances:   2
+  Class: sky130_fd_sc_hd__o22a_2 instances: 111
+  Class: sky130_fd_sc_hd__xnor2_2 instances:  41
+  Class: sky130_fd_sc_hd__xnor2_4 instances:   5
+  Class: sky130_fd_sc_hd__nor3b_2 instances:   3
+  Class: sky130_fd_sc_hd__o221a_2 instances:  46
+  Class: sky130_fd_sc_hd__o21bai_2 instances:   5
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   4
+  Class: sky130_fd_sc_hd__o211a_2 instances: 114
+  Class: sky130_fd_sc_hd__o211a_4 instances:   1
+  Class: sky130_fd_sc_hd__nand2b_2 instances:  20
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   3
+  Class: sky130_fd_sc_hd__diode_2 instances:  41
+  Class: sky130_fd_sc_hd__a311oi_2 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:  39
+  Class: sky130_fd_sc_hd__a211o_2 instances:  69
+  Class: sky130_fd_sc_hd__a211o_4 instances:   6
+  Class: sky130_fd_sc_hd__o2111a_2 instances:   4
+  Class: sky130_fd_sc_hd__or3b_2 instances:   6
+  Class: sky130_fd_sc_hd__or3b_4 instances:   7
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:  50
+  Class: sky130_fd_sc_hd__nor3_2 instances:   5
+  Class: sky130_fd_sc_hd__a32o_2 instances:  25
+  Class: sky130_fd_sc_hd__o41a_2 instances:   1
+  Class: sky130_fd_sc_hd__o41a_4 instances:   1
+  Class: sky130_fd_sc_hd__dlygate4sd1_1 instances:   4
+  Class: sky130_fd_sc_hd__a22o_2 instances: 1177
+  Class: sky130_fd_sc_hd__o31a_2 instances:  15
+  Class: sky130_fd_sc_hd__o31a_4 instances:   3
+  Class: sky130_fd_sc_hd__o2bb2a_2 instances:  12
+  Class: sky130_fd_sc_hd__o21a_2 instances: 100
+  Class: sky130_fd_sc_hd__o21a_4 instances:  12
+  Class: sky130_fd_sc_hd__o311a_2 instances:   7
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_2 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_2 instances:   1
+  Class: sky130_fd_sc_hd__and4b_2 instances:   2
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__o21ai_2 instances:  92
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  16
+  Class: sky130_fd_sc_hd__a21oi_2 instances:  96
+  Class: sky130_fd_sc_hd__a21oi_4 instances:   5
+  Class: sky130_fd_sc_hd__a311o_2 instances:  13
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_2 instances:   5
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__and4bb_2 instances:   2
+  Class: sky130_fd_sc_hd__nor2_1 instances:   1
+  Class: sky130_fd_sc_hd__nor2_2 instances: 199
+  Class: sky130_fd_sc_hd__nor2_4 instances:  12
+Circuit contains 8518 nets, and 2 disconnected pins.
+Circuit 1 contains 8494 devices, Circuit 2 contains 8494 devices.
+Circuit 1 contains 8518 nets,    Circuit 2 contains 8518 nets.
+Final result:
+Circuits match uniquely.
+.
+Logging to file
+"/Users/surya/Projects/RV32I/runs/glui-20260904-232539/70-netgen-lvs/reports/lvs
+.netgen.rpt" disabled
+LVS Done.
+────────────────────── Layout vs. Schematic Error Checker ──────────────────────
+──────── ▶ Checker.LVS ────────
+[18:37:46] VERBOSE  Running 'Checker.LVS' at                        step.py:1138
+                    'runs/glui-20260904-232539/71-checker-lvs'…
+[18:37:46] INFO     Check for LVS errors clear.                   checker.py:131
+[18:37:46] INFO     Gating variable for step 'Yosys.EQY' set   sequential.py:362
+                    to 'False'- the step will be skipped.
+[18:37:46] INFO     Skipping step 'Equivalence Check'…         sequential.py:370
+─────────────────────── Setup Timing Violations Checker ────────────────────────
+──────── ▶ Checker.SetupViolations ────────
+[18:37:46] VERBOSE  Running 'Checker.SetupViolations' at            step.py:1138
+                    'runs/glui-20260904-232539/72-checker-setupviol
+                    ations'…
+[18:37:46] WARNING  Setup violations found in the following       checker.py:626
+                    corners:
+                    * max_ss_100C_1v60
+                    * min_ss_100C_1v60
+                    * nom_ss_100C_1v60
+[18:37:46] VERBOSE  No setup violations found                     checker.py:628
+──────────────────────── Hold Timing Violations Checker ────────────────────────
+──────── ▶ Checker.HoldViolations ────────
+[18:37:46] VERBOSE  Running 'Checker.HoldViolations' at             step.py:1138
+                    'runs/glui-20260904-232539/73-checker-holdviola
+                    tions'…
+[18:37:46] VERBOSE  No hold violations found                      checker.py:628
+─────────────────────── Maximum Slew Violations Checker ────────────────────────
+──────── ▶ Checker.MaxSlewViolations ────────
+[18:37:46] VERBOSE  Running 'Checker.MaxSlewViolations' at          step.py:1138
+                    'runs/glui-20260904-232539/74-checker-maxslewvi
+                    olations'…
+[18:37:46] WARNING  Max Slew violations found in the following    checker.py:626
+                    corners:
+                    * max_ff_n40C_1v95
+                    * max_ss_100C_1v60
+                    * max_tt_025C_1v80
+                    * min_ff_n40C_1v95
+                    * min_ss_100C_1v60
+                    * min_tt_025C_1v80
+                    * nom_ff_n40C_1v95
+                    * nom_ss_100C_1v60
+                    * nom_tt_025C_1v80
+[18:37:46] VERBOSE  No max slew violations found                  checker.py:628
+──────────────────── Maximum Capacitance Violations Checker ────────────────────
+──────── ▶ Checker.MaxCapViolations ────────
+[18:37:46] VERBOSE  Running 'Checker.MaxCapViolations' at           step.py:1138
+                    'runs/glui-20260904-232539/75-checker-maxcapvio
+                    lations'…
+[18:37:46] WARNING  Max Cap violations found in the following     checker.py:626
+                    corners:
+                    * max_ff_n40C_1v95
+                    * max_ss_100C_1v60
+                    * max_tt_025C_1v80
+                    * min_ff_n40C_1v95
+                    * min_ss_100C_1v60
+                    * min_tt_025C_1v80
+                    * nom_ff_n40C_1v95
+                    * nom_ss_100C_1v60
+                    * nom_tt_025C_1v80
+[18:37:46] VERBOSE  No max cap violations found                   checker.py:628
+───────────────── Report Manufacturability (DRC, LVS, Antenna) ─────────────────
+──────── ▶ Misc.ReportManufacturability ────────
+[18:37:46] VERBOSE  Running 'Misc.ReportManufacturability' at       step.py:1138
+                    'runs/glui-20260904-232539/76-misc-reportmanufa
+                    cturability'…
+* Antenna
+Passed ✅
+* LVS
+Passed ✅
+* DRC
+Passed ✅
+[18:37:46] INFO     Saving views to                                 state.py:209
+                    '/Users/surya/Projects/RV32I/runs/glui-20260904
+                    -232539/final'…
+[18:37:47] INFO     Flow complete.                             sequential.py:413
+[18:37:47] WARNING  The following warnings were generated by the     flow.py:699
+                    flow:
+[18:37:47] WARNING  [Checker.LintWarnings] 1 Lint warnings found.    flow.py:701
+[18:37:47] WARNING  [OpenROAD.CheckSDCFiles] 'PNR_SDC_FILE' is not   flow.py:701
+                    defined. Using generic fallback SDC for OpenROAD
+                    PnR steps.
+[18:37:47] WARNING  [OpenROAD.CheckSDCFiles] 'SIGNOFF_SDC_FILE' is   flow.py:701
+                    not defined. Using generic fallback SDC for
+                    OpenROAD PnR steps.
+[18:37:47] WARNING  [OpenROAD.GlobalPlacement] [GRT-0281] Net clk_i  flow.py:701
+                    has a large fanout of 1155 terminals.
+[18:37:47] WARNING  [OpenROAD.RepairDesignPostGPL] [STA-1140]        flow.py:701
+                    /Users/surya/.ciel/ciel/sky130/versions/8afc8346
+                    a57fe1ab7934ba5a6056ea8b43078e71/sky130A/libs.re
+                    f/sky130_fd_sc_hd/lib/sky130_fd_sc_hd__tt_025C_1
+                    v80.lib line 1, library
+                    sky130_fd_sc_hd__tt_025C_1v80 already exists.
+                    (and 17 similar warnings)
+[18:37:47] WARNING  [OpenROAD.RepairDesignPostGPL] [RSZ-0020] found  flow.py:701
+                    2 floating nets.
+[18:37:47] WARNING  [OpenROAD.ResizerTimingPostCTS] [RSZ-0062]       flow.py:701
+                    Unable to repair all setup violations.
+[18:37:47] WARNING  [OpenROAD.DetailedRouting] [DRT-0349]            flow.py:701
+                    LEF58_ENCLOSURE with no CUTCLASS is not
+                    supported. Skipping for layer mcon (and 9
+                    similar warnings)
+[18:37:47] WARNING  [Checker.WireLength] Threshold for               flow.py:701
+                    Threshold-surpassing long wires is not set. The
+                    checker will be skipped.
+[18:37:47] WARNING  [OpenROAD.IRDropReport] 'VSRC_LOC_FILES' was not flow.py:701
+                    given a value, which may make the results of IR
+                    drop analysis inaccurate. If you are not
+                    integrating a top-level chip for manufacture,
+                    you may ignore this warning, otherwise, see the
+                    documentation for 'VSRC_LOC_FILES'.
+[18:37:47] WARNING  [Odb.CheckDesignAntennaProperties] Cell          flow.py:701
+                    'rv32i_core' has (2) input pin(s) without
+                    antenna gate information. They might not be
+                    connected to a gate. (and 1 similar warnings)
+[18:37:47] WARNING  [Checker.SetupViolations] Setup violations found flow.py:701
+                    in the following corners:
+                    * max_ss_100C_1v60
+                    * min_ss_100C_1v60
+                    * nom_ss_100C_1v60
+[18:37:47] WARNING  [Checker.MaxSlewViolations] Max Slew violations  flow.py:701
+                    found in the following corners:
+                    * max_ff_n40C_1v95
+                    * max_ss_100C_1v60
+                    * max_tt_025C_1v80
+                    * min_ff_n40C_1v95
+                    * min_ss_100C_1v60
+                    * min_tt_025C_1v80
+                    * nom_ff_n40C_1v95
+                    * nom_ss_100C_1v60
+                    * nom_tt_025C_1v80
+[18:37:47] WARNING  [Checker.MaxCapViolations] Max Cap violations    flow.py:701
+                    found in the following corners:
+                    * max_ff_n40C_1v95
+                    * max_ss_100C_1v60
+                    * max_tt_025C_1v80
+                    * min_ff_n40C_1v95
+                    * min_ss_100C_1v60
+                    * min_tt_025C_1v80
+                    * nom_ff_n40C_1v95
+                    * nom_ss_100C_1v60
+                    * nom_tt_025C_1v80

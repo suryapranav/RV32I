@@ -1,0 +1,38 @@
+{
+  "DESIGN_NAME": "rv32i_core",
+  "PDK": "sky130A",
+  "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+
+  "VERILOG_FILES": [
+    "dir::rtl/rv32i_pkg.sv",
+    "dir::rtl/alu.sv",
+    "dir::rtl/regfile.sv",
+    "dir::rtl/imm_gen.sv",
+    "dir::rtl/rv32i_core.sv"
+  ],
+
+  "VERILOG_INCLUDE_DIRS": ["dir::rtl"],
+
+  "CLOCK_PORT": "clk_i",
+  "CLOCK_NET": "clk_i",
+  "//": "Start at 20ns (50 MHz). Tighten only after synthesis closes.",
+  "CLOCK_PERIOD": 20.0,
+
+  "//floorplan": "Utilisation is the first knob to turn if routing fails. The register file dominates area, so start low and raise it once the design routes.",
+  "FP_CORE_UTIL": 35,
+  "PL_TARGET_DENSITY_PCT": 45,
+
+  "//sizing": "Let LibreLane pick the die from utilisation rather than fixing it by hand until you know your area.",
+  "FP_SIZING": "relative",
+
+  "//synthesis": "SYNTH_STRATEGY AREA 0 / DELAY 0..4. DELAY strategies trade cells for speed -- worth sweeping once the flow runs end to end.",
+  "SYNTH_STRATEGY": "AREA 0",
+
+  "RUN_LINTER": true,
+  "LINTER_RELATIVE_INCLUDES": true,
+
+  "//drc": "Magic and Netgen signoff are on by default in Classic. Leave them on -- a design that routes but fails DRC is not done.",
+  "RUN_MAGIC_DRC": true,
+  "RUN_KLAYOUT_DRC": true,
+  "RUN_LVS": true
+}

@@ -1,0 +1,16 @@
+# simulation
+sim_build/
+obj_dir/
+*.vcd
+*.fst
+results.xml
+
+# synthesis / implementation
+build/
+runs/
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
