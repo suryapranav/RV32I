@@ -13,6 +13,11 @@
 
   "VERILOG_INCLUDE_DIRS": ["dir::../rtl"],
 
+  "//sdc": "One SDC for PnR, signoff and RCX, shared with make sta. Setting these replaces LibreLane's generic base.sdc entirely.",
+  "PNR_SDC_FILE": "dir::../synth/rv32i_core.sdc",
+  "SIGNOFF_SDC_FILE": "dir::../synth/rv32i_core.sdc",
+  "RCX_SDC_FILE": "dir::../synth/rv32i_core.sdc",
+
   "CLOCK_PORT": "clk_i",
   "CLOCK_NET": "clk_i",
   "//": "Start at 20ns (50 MHz). Tighten only after synthesis closes.",

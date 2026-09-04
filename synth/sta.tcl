@@ -17,23 +17,16 @@ read_liberty $lib
 read_verilog $build/${top}_netlist.v
 link_design $top
 
-create_clock -name clk -period $period [get_ports clk_i]
-
-# Conservative I/O timing so the report reflects the core, not the pads.
-set_input_delay  -clock clk [expr {$period * 0.2}] \
-    [remove_from_collection [all_inputs] [get_ports clk_i]]
-set_output_delay -clock clk [expr {$period * 0.2}] [all_outputs]
-
-# A realistic load and drive keeps the numbers honest.
-set_load 0.05 [all_outputs]
-set_driving_cell -lib_cell sky130_fd_sc_hd__inv_2 \
-    [remove_from_collection [all_inputs] [get_ports clk_i]]
+# Constraints come from the shared SDC so that `make sta` and the LibreLane
+# flow report the same numbers. It reads the period from CLK_PERIOD_NS, which
+# the Makefile puts in the environment.
+read_sdc synth/rv32i_core.sdc
 
 puts "\n=================== WORST SLACK ==================="
 report_worst_slack -max
 
 puts "\n=================== CRITICAL PATH ================="
-report_checks -path_delay max -fields {slew cap input net fanout} -digits 4
+report_checks -path_delay max -fields {slew cap input net fanout} -digits 4 -group_count 10
 
 puts "\n=================== HOLD ==========================="
 report_checks -path_delay min -digits 4
