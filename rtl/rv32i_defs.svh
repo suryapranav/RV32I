@@ -18,6 +18,9 @@
 
 /* verilator lint_off UNUSEDPARAM */
 // A shared header naturally defines encodings a given module does not use.
+/* verilator lint_off VARHIDDEN */
+// rv32i_pkg wraps this same file, so when both are read the module-local
+// copies shadow the package's. Same file, same values -- nothing to fix.
 
 // ---- opcodes (inst[6:0]) ----
 localparam logic [6:0] OP_LUI      = 7'b0110111;
@@ -57,4 +60,5 @@ localparam logic [1:0] FWD_NONE = 2'd0;  // take the register file value
 localparam logic [1:0] FWD_MEM  = 2'd1;  // forward from EX/MEM
 localparam logic [1:0] FWD_WB   = 2'd2;  // forward from MEM/WB
 
+/* verilator lint_on VARHIDDEN */
 /* verilator lint_on UNUSEDPARAM */
