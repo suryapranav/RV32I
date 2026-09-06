@@ -18,6 +18,16 @@
   "SIGNOFF_SDC_FILE": "dir::synth/rv32i_core.sdc",
   "RCX_SDC_FILE": "dir::synth/rv32i_core.sdc",
 
+  "//excluded_cells": "Delay buffers, kept out of synthesis and PnR. The resizer was choosing clkdlybuf4s25_1 to fix max-fanout violations -- a clock DELAY cell used as a drive buffer, ~1.6ns each. Nine of them accounted for 17.22ns of a 27.34ns critical path. The PDK's drc_exclude.cells already drops 4s15_1 and 4s18_1 but not the rest of the family. dlygate*/dlymetal* are deliberately left available: they are the hold-fix cells and hold margin is only +0.13ns.",
+  "EXTRA_EXCLUDED_CELLS": [
+      "sky130_fd_sc_hd__clkdlybuf4s15_2",
+      "sky130_fd_sc_hd__clkdlybuf4s18_2",
+      "sky130_fd_sc_hd__clkdlybuf4s25_1",
+      "sky130_fd_sc_hd__clkdlybuf4s25_2",
+      "sky130_fd_sc_hd__clkdlybuf4s50_1",
+      "sky130_fd_sc_hd__clkdlybuf4s50_2"
+  ],
+
   "CLOCK_PORT": "clk_i",
   "CLOCK_NET": "clk_i",
   "//": "Start at 20ns (50 MHz). Tighten only after synthesis closes.",
